@@ -1,6 +1,6 @@
 {
 //spider+壁纸
-"spider":"./jar/ce.jar", "wallpaper":"http://catvod.fun:8001/tv/w1.png",
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;60d9f2609ee273810e12879202418f61",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5aDEyMy8xMS9yYXcvYnJhbmNoL21hL3R2LnR4dA=="]}]}],
