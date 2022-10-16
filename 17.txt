@@ -1,6 +1,9 @@
 {
 "spider":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/custom_spider.jar;md5;60d9f2609ee273810e12879202418f61",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x5aDEyMy8xMS9yYXcvYnJhbmNoL21hL3R2LnR4dA=="]}]}],
+
+ "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
+   ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
+  ],
 "sites": [
     {
       "key": "AList",
