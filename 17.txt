@@ -2,30 +2,139 @@
 "spider":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/custom_spider.jar;md5;60d9f2609ee273810e12879202418f61",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL215czIwOTkvbXlzL3Jhdy9icmFuY2gvbWEvemIudHh0"]}]}],
-
-"sites":[
-{"key":"csp_77","name":"🐞七七","type":3,"api":"csp_Kunyu77"},
-{"key":"csp_Dy555","name":"🦀555电影","type":3,"api":"csp_Dy555"},
-{"key":"csp_Auete","name":"🦅Auete","type":3,"api":"csp_Auete"},
-{"key":"csp_Libvio","name":"🎉Libvio","type":3,"api":"csp_Lib"},
-{"key":"csp_KanSJ","name":"🎊看视界","api":"csp_KanSJ","type":3},
-{"key":"csp_Lezhu","name":"🐷乐猪TV","api":"csp_Lezhu","type":3},
-{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo"},
-{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple"},
-{"key":"csp_Bd","name":"🦌哔嘀影视","type":3,"api":"csp_Bdys01"},
-{"key":"csp_jihuang","name":"🎞剧荒影视","type":3,"api":"csp_Juhuang"},
-{"key":"csp_Czsapp","name":"🏭厂长资源","type":3,"api":"csp_Czsapp"},
-{"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan"},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT"},
-
-{"key":"csp_Gitcafe","name":"🔖小纸条(云盘)","type":3,"api":"csp_Gitcafe","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"csp_FindZY","name":"🔍️找资源(仅搜索)","type":3,"api":"csp_FindZY","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"csp_AliPS","name":"📀盘搜(仅搜索)","type":3,"api":"csp_AliPS","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"csp_Yiso","name":"🎯一搜(仅搜索)","type":3,"api":"csp_Yiso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"Upyunso","name":"☁云搜(仅搜索)","type":3,"api":"csp_Upyunso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"push_ali","name":"♻📤Alist推送","type":3,"api":"csp_PushAgent","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"csp_Alist","name":"💾📁Alist网盘","type":3,"api":"csp_Alist","ext":"https://agit.ai/mys2099/mys/raw/branch/ma/alist.json"}
-],
+"sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_Nbys",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快播",
+      "name": "快播",
+      "type": 1,
+      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "综艺"
+      ]
+    },
+    {
+      "key": "百度",
+      "name": "百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "紙條",
+      "name": "紙條",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "ext": "3865f0ab8f124688ad786a262af9b940"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "3865f0ab8f124688ad786a262af9b940"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "3865f0ab8f124688ad786a262af9b940"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "3865f0ab8f124688ad786a262af9b940"
+    }
+  ],
 
 "parses":[
 {"name":"聚合解析","type":3,"url":"Demo"},
