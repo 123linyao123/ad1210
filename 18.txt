@@ -2,7 +2,8 @@
 {
 //jar+壁纸
 
-"spider": "https://agit.ai/cwtv/cwtv/raw/branch/master/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"spider": "https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/1007.jar;md5;76c55c461dea565fc8e8c165b3e889b1", 
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
 //电视直播	
 
