@@ -4,12 +4,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL215czIwOTkvbXlzL3Jhdy9icmFuY2gvbWEvemIudHh0"]}]}],
 
 "sites":[
-{"key":"T4_douban","name":"📡豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod"},
-{"key":"csp_SP360","name":"📺360","type":3,"api":"csp_SP360"},
-{"key":"csp_QQ","name":"🐧腾讯","type":3,"api":"csp_QQ"},
-{"key":"csp_IQIYI","name":"🍀🥝奇艺","type":3,"api":"csp_IQIYI"},
-{"key":"csp_MGTV","name":"🍋芒果","type":3,"api":"csp_MGTV"},
-
 {"key":"csp_77","name":"🐞七七","type":3,"api":"csp_Kunyu77"},
 {"key":"csp_Dy555","name":"🦀555电影","type":3,"api":"csp_Dy555"},
 {"key":"csp_Auete","name":"🦅Auete","type":3,"api":"csp_Auete"},
@@ -30,8 +24,7 @@
 {"key":"csp_Yiso","name":"🎯一搜(仅搜索)","type":3,"api":"csp_Yiso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"Upyunso","name":"☁云搜(仅搜索)","type":3,"api":"csp_Upyunso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
 {"key":"push_ali","name":"♻📤Alist推送","type":3,"api":"csp_PushAgent","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
-{"key":"csp_Alist","name":"💾📁Alist网盘","type":3,"api":"csp_Alist","ext":"https://agit.ai/mys2099/mys/raw/branch/ma/alist.json"},
-{"key":"csp_xBPQ_buka","name":"🚀不卡影院","type":3,"api":"csp_xBPQ","ext":"https://agit.ai/mys2099/mys/raw/branch/ma/buka.json"}
+{"key":"csp_Alist","name":"💾📁Alist网盘","type":3,"api":"csp_Alist","ext":"https://agit.ai/mys2099/mys/raw/branch/ma/alist.json"}
 ],
 
 "parses":[
