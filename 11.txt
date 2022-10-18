@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "",
-      "name": "首页",
-      "type": 3,
-      "api": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Kunyu77",
       "name": "🌤️酷云七七",
       "type": 3,
