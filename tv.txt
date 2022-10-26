@@ -1,5 +1,5 @@
 
-🇭🇰丨港澳台,#genre#
+丨港澳台,#genre#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 
@@ -101,8 +101,10 @@ CCTV5,http://39.134.67.110/PLTV/88888888/224/3221225818/index.m3u8$超清1080P
 CCTV5,http://222.175.159.226:808/hls/5/index.m3u8$超清1080P
 CCTV5,rtsp://221.203.83.35/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
 CCTV5,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
+CCTV5,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?
+CCTV5,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?
 
-
+CCTV5+,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8?
 CCTV5+,http://111.12.110.35:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV5+,http://125.210.152.20:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
@@ -120,6 +122,9 @@ CCTV5+,http://111.20.33.74/TVOD/88888893/224/3221226221/index.m3u8
 CCTV5+,http://111.13.42.235/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://111.13.42.242/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
+
+CCTV风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
+
 
 广州竞赛,http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 
@@ -243,7 +248,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 肇庆综合,https://kfs-live.nanyuecloud.com/live/nwezhaoqing1.m3u8?txSecret=8bafc37137941d1fe45f31b2b33a8d18&txTime=63D8797F#http://www.kitcc.cn:8888/udp/239.253.43.1:5146#http://www.nettvpro.live/hls/zhaoqing.php?id=zhpd
 肇庆生活,https://kfs-live.nanyuecloud.com/live/nwezhaoqing2.m3u8?txSecret=67969fe564e37a413508527ce0205f72&txTime=63D8797F#http://www.kitcc.cn:8888/udp/239.253.43.2:5146#http://www.nettvpro.live/hls/zhaoqing.php?id=ggpd
 
-📡 |卫视台,#genre#
+📡 | 卫视台,#genre#
 湖南卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖南卫视,http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
 湖南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000032695&livemode=1&stbId=2&channel-id=ystenlive
@@ -726,7 +731,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
 
-🎬️ |影视台,#genre#
+🎬️ | 影视台,#genre#
 
 周星驰粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -828,7 +833,9 @@ CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
 CCTV1,http://111.12.110.35:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV1,http://125.210.152.20:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8
+CCTV1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
 
+CCTV2,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?
 CCTV2,http://125.210.152.19:9090/live/hzgq-cctv2gq-h264.m3u8
 CCTV2,http://125.210.152.20:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV2,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000023315&livemode=1&stbId=2&channel-id=ystenlive
@@ -839,7 +846,7 @@ CCTV2,http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessio
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8$超清1080P
 CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8$超清1080P
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8$超清1080P
-CCTV2,http://222.175.159.226:808/hls/2/index.m3u8$超清1080P
+CCTV2,http://222.175.159.226:808/hls/2/index.m3u8
 CCTV2,http://111.12.110.35:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV2,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
 
@@ -851,14 +858,16 @@ CCTV3,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
 CCTV3,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
 CCTV3,http://111.40.196.25/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8$超清1080P
-CCTV3,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8$超清1080P
-CCTV3,http://39.134.66.163/PLTV/88888888/224/3221225799/index.m3u8$超清1080P
-CCTV3,http://222.175.159.226:808/hls/3/index.m3u8$超清1080P
-CCTV3,http://39.134.67.110/PLTV/88888888/224/3221225799/index.m3u8$超清1080P
+CCTV3,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
+CCTV3,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3,http://39.134.66.163/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3,http://222.175.159.226:808/hls/3/index.m3u8
+CCTV3,http://39.134.67.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://125.210.152.20:9120/live/hzgq-cctv3gq-h264.m3u8
 CCTV3,http://125.210.152.19:9090/live/hzgq-cctv3gq-h264.m3u8
+CCTV3,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?
 
+CCTV4,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?
 CCTV4,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
 CCTV4,http://125.210.152.20:9120/live/hzgq-cctv4gq-h264.m3u8
 CCTV4,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8$超清1080P
@@ -869,8 +878,8 @@ CCTV4,http://39.135.138.59:18890/PLTV/88888888/224/3221225621/index.m3u8$超清1
 CCTV4,http://111.12.110.35:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV4,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
 CCTV4,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000031664&livemode=1&stbId=2&channel-id=ystenlive
-CCTV4欧洲高清,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
-CCTV4美洲高清,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
+CCTV4,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
+CCTV4,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
 
 CCTV6,http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8$超清1080P
 CCTV6,http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8$超清1080P
@@ -883,6 +892,7 @@ CCTV6,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=10000000010
 CCTV6,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000016466&livemode=1&stbId=2&channel-id=ystenlive
 CCTV6,http://125.210.152.20:9120/live/hzgq-cctv6gq-h264.m3u8
 CCTV6,http://125.210.152.19:9090/live/hzgq-cctv6gq-h264.m3u8
+CCTV6,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?
 
 CCTV7,http://125.210.152.19:9090/live/hzgq-cctv7gq-h264.m3u8
 CCTV7,http://125.210.152.20:9120/live/hzgq-cctv7gq-h264.m3u8
@@ -895,7 +905,9 @@ CCTV7,http://39.134.67.110/PLTV/88888888/224/3221225671/index.m3u8$超清1080P
 CCTV7,http://39.134.66.163/PLTV/88888888/224/3221225671/index.m3u8$超清1080P
 CCTV7,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000024341&livemode=1&stbId=2&channel-id=ystenlive
 CCTV7,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000017218&livemode=1&stbId=2&channel-id=ystenlive
+CCTV7,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?
 
+CCTV8,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?
 CCTV8,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8$超清1080P
 CCTV8,http://222.175.159.226:808/hls/9/index.m3u8$超清1080P
 CCTV8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8$超清1080P
@@ -918,8 +930,10 @@ CCTV9,http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8$超清1080P
 CCTV9,http://222.175.159.226:808/hls/10/index.m3u8$超清1080P
 CCTV9,http://39.134.67.110/PLTV/88888888/224/3221225676/index.m3u8$超清1080P
 CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8$超清1080P
+CCTV9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?
+CCTV9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240478_1/encoder/0/playlist.m3u8?
 
-
+CCTV10,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?
 CCTV10,http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8$超清1080P
 CCTV10,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8$超清1080P
 CCTV10,http://222.175.159.226:808/hls/11/index.m3u8$超清1080P
@@ -942,7 +956,9 @@ CCTV11,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8$超清
 CCTV11,http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8$超清1080P
 CCTV11,http://222.175.159.226:808/hls/12/index.m3u8$超清1080P
 CCTV11,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8$超清1080P
+CCTV11,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?
 
+CCTV12,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?
 CCTV12,http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8$超清1080P
 CCTV12,http://222.175.159.226:808/hls/13/index.m3u8$超清1080P
 CCTV12,http://39.134.67.110/PLTV/88888888/224/3221225669/index.m3u8$超清1080P
@@ -966,7 +982,9 @@ CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8$超清
 CCTV13,http://222.175.159.226:808/hls/14/index.m3u8$超清1080P
 CCTV13,http://39.134.67.110/PLTV/88888888/224/3221225812/index.m3u8$超清1080P
 CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8$超清1080P
+CCTV13,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?
 
+CCTV14,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?
 CCTV14,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000008170&livemode=1&stbId=2&channel-id=ystenlive
 CCTV14,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000021349&livemode=1&stbId=2&channel-id=ystenlive
 CCTV14,http://39.134.65.208/PLTV/88888888/224/3221225674/index.m3u8$超清1080P
@@ -989,7 +1007,10 @@ CCTV15,http://111.20.33.93/TVOD/88888888/224/3221225785/index.m3u8$超清1080P
 CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8$超清1080P
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8$超清1080P
 CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8$超清1080P
+CCTV15,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?
 
+CCTV16,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?
+CCTV16,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?
 CCTV16,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8$4K
 CCTV16,http://111.20.33.93/TVOD/88888893/224/3221226921/index.m3u8$超清1080P
 CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8$超清1080P
@@ -1012,6 +1033,7 @@ CCTV17,http://39.134.66.166/PLTV/88888888/224/3221225708/index.m3u8$超清1080P
 CCTV17,http://222.175.159.226:808/hls/18/index.m3u8$超清1080P
 CCTV17,http://39.134.67.110/PLTV/88888888/224/3221225708/index.m3u8$超清1080P
 CCTV17,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000005000056836&livemode=1&stbId=2&channel-id=ystenlive
+CCTV17,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?
 
 CCTV第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
 
@@ -1023,37 +1045,13 @@ CCTV文化精品,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125138
 CCTV女性时尚,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
 CCTV风云剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
 
-CCTV风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
 
 CCTV风云音乐,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
 
-CCTV兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8$超清1080P
-#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+CCTV兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+
 CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8$超清1080P
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8$超清1080P
 
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
-
-
-CCTV-1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
-CCTV-2,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?
-CCTV-3,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?
-CCTV-4,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?
-CCTV-5,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?
-CCTV-5,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?
-CCTV-5+,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8?
-CCTV-6,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?
-CCTV-7,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?
-CCTV-8,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?
-CCTV-9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?
-CCTV-9,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240478_1/encoder/0/playlist.m3u8?
-CCTV-10,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?
-CCTV-11,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?
-CCTV-12,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?
-CCTV-13,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?
-CCTV-14,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?
-CCTV-15,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?
-CCTV-16 4K,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?
-CCTV-16,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?
-CCTV-17,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?
