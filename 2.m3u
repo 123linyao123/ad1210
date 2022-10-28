@@ -326,3 +326,92 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 group-title="卫视",康巴卫视
 http://39.134.65.166/PLTV/88888888/224/3221225527/1.m3u8
+#EXTINF:-1 group-title="地方台",山东齐鲁
+https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
+#EXTINF:-1 group-title="地方台",东方影视
+http://117.148.179.166:80/PLTV/88888888/224/3221231639/index.m3u8?
+#EXTINF:-1 group-title="地方台",东方影视
+http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="地方台",云南都市
+https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 group-title="地方台",云南都市
+https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="地方台",云南影视
+https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
+#EXTINF:-1 group-title="地方台",云南影视
+https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 group-title="地方台",江苏城市
+http://183.207.248.13:80/PLTV/4/224/3221225929/index.m3u8
+#EXTINF:-1 group-title="地方台",湖南电视剧
+http://124.232.231.246:6610/000000001001/201600020006/index.m3u8?A=&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="地方台",湖南经视
+http://iptv.wolink.cc:889/hls/53/index.m3u8#http://cy731.7766.org:9901/tsfile/live/1058_1.m3u8
+#EXTINF:-1 group-title="地方台",黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+#EXTINF:-1 group-title="地方台",黑龙江影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+#EXTINF:-1 group-title="地方台",宁夏公共
+http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
+#EXTINF:-1 group-title="地方台",银川公共
+http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",北京影视
+http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8
+#EXTINF:-1 group-title="地方台",北京影视
+http://live.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:-1 group-title="地方台",北京文艺
+http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
+#EXTINF:-1 group-title="地方台",北京文艺
+http://live.cooltv.top/tv/btime.php?id=btvwy 
+#EXTINF:-1 group-title="地方台",济宁综合
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+
+#EXTINF:-1 group-title="广东台",广东珠江
+http://www.kitcc.cn:8888/udp/239.77.0.1:5146
+#EXTINF:-1 group-title="广东台",广东珠江
+http://111.12.110.35:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="广东台",广东珠江
+http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="广东台",广东经济科教
+http://9.zhxinda.xyz/gdtv.php?pk=1196
+#EXTINF:-1 group-title="广东台",广东经济科教
+http://183.63.15.42:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="广东台",广东经济科教
+ttp://www.kitcc.cn:8888/udp/239.77.0.85:5146
+#EXTINF:-1 group-title="广东台",广东新闻
+http://9.zhxinda.xyz/gdtv.php?pk=1186
+#EXTINF:-1 group-title="广东台",广东新闻
+http://www.kitcc.cn:8888/udp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东台",深圳都市
+http://mzwh4455.qicp.vip:280/hls/87/index.m3u8
+#EXTINF:-1 group-title="广东台",深圳都市
+http://www.kitcc.cn:8888/udp/239.77.1.124:5146
+#EXTINF:-1 group-title="广东台",广州新闻
+http://www.kitcc.cn:8888/udp/239.253.43.72:5146
+#EXTINF:-1 group-title="广东台",广州新闻
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 group-title="广东台",广州综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 group-title="广东台",广州8综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 group-title="广东台",深圳公共
+http://shazui.8866.org:800/hls/30/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
