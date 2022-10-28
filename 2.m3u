@@ -340,6 +340,8 @@ https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
 https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 #EXTINF:-1 group-title="地方台",云南影视
 https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 group-title="地方台",个旧综合
+http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv?zyund
 #EXTINF:-1 group-title="地方台",江苏城市
 http://183.207.248.13:80/PLTV/4/224/3221225929/index.m3u8
 #EXTINF:-1 group-title="地方台",湖南电视剧
