@@ -328,6 +328,8 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225527/1.m3u8
 #EXTINF:-1 group-title="地方台",山东齐鲁
 https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
+#EXTINF:-1 group-title="地方台",山东齐鲁
+http://221.0.78.198:1681/hls/10225/index.m3u8
 #EXTINF:-1 group-title="地方台",东方影视
 http://117.148.179.166:80/PLTV/88888888/224/3221231639/index.m3u8?
 #EXTINF:-1 group-title="地方台",东方影视
