@@ -29,6 +29,8 @@ http://jyjxy.7766.org:808/hls/36/index.m3u8
 http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台
 http://www.penis18.org/stream/9b9e3e360f9931984f246f81c429cf81
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://118.31.113.130:82/gudou.php?id=1350_4500
 #EXTINF:-1 group-title="港澳台",翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="港澳台",翡翠华丽
@@ -63,6 +65,10 @@ http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
+#EXTINF:-1 group-title="港澳台",无线财经
+http://120.84.96.62:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="港澳台",无线财经
+http://120.84.96.78:808/hls/86/index.m3u8
 
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
@@ -230,7 +236,7 @@ http://118.31.113.130:82/gudou.php?id=dongfangHD_7000
 #EXTINF:-1 group-title="卫视",广东卫视
 http://118.31.113.130:82/gudou.php?id=guangdongHD_7000
 #EXTINF:-1 group-title="卫视",广东卫视
-
+http://117.169.120.136:8080/live/guangdongstv/.m3u8
 #EXTINF:-1 group-title="卫视",南方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="卫视",南方卫视
@@ -242,7 +248,7 @@ http://125.210.152.20:9120/live/hzgq-szwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
 http://118.31.113.130:82/gudou.php?id=beijingHD_7000
 #EXTINF:-1 group-title="卫视",北京卫视
-
+http://111.13.42.234/PLTV/88888888/224/3221226436/1.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视
 http://125.210.152.20:9120/live/hzgq-tjwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视
@@ -260,7 +266,7 @@ http://118.31.113.130:82/gudou.php?id=heilongjiangHD_7000
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://125.210.152.20:9120/live/hzgq-hljwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://118.31.113.130:82/gudou.php?id=anhuiHD_7000
+http://121.51.249.45/live1.ahtv.cn/ahws/hd/live.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://125.210.152.20:9120/live/hzgq-ahwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
@@ -298,7 +304,7 @@ http://118.31.113.130:82/gudou.php?id=guizhouHD_7000
 #EXTINF:-1 group-title="卫视",吉林卫视
 
 #EXTINF:-1 group-title="卫视",甘肃卫视
-
+http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="卫视",甘肃卫视
 
 #EXTINF:-1 group-title="卫视",厦门卫视
