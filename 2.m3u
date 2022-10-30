@@ -69,13 +69,13 @@ http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="体育台",CCTV-5
-http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV5HD_7000
 #EXTINF:-1 group-title="体育台",CCTV-5+
 http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="体育台",CCTV-5+
 http://125.210.152.20:9120/live/hzgq-cctvzhgq-h264.m3u8
 #EXTINF:-1 group-title="体育台",CCTV-5+
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV5plusHD_7000
 #EXTINF:-1 group-title="体育台",广东体育
 http://xjayrf.tv888.top:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="体育台",广东体育
@@ -171,11 +171,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="影视台",CHC动作电影
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 #EXTINF:-1 group-title="影视台",CHC动作电影
-http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+
 #EXTINF:-1 group-title="影视台",CHC家庭影院
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 #EXTINF:-1 group-title="影视台",CHC家庭影院
-http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+
 #EXTINF:-1 group-title="影视台",CHC高清电影
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 group-title="影视台",CHC高清电影
@@ -191,15 +191,15 @@ http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="影视台",IPTV淘电影
 http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="影视台",IPTV淘剧场
-http://120.234.110.137/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+
 #EXTINF:-1 group-title="影视台",高分电影
 http://mmitv.top/pltv/yy.php?id=1353312849
 #EXTINF:-1 group-title="影视台",战争电影
 http://mmitv.top/pltv/yy.php?id=1353392400
 #EXTINF:-1 group-title="影视台",欧美影院
-http://111.12.110.95:6610/000000001001/7185203501769528108/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=7185203501769528108
+
 #EXTINF:-1 group-title="影视台",亚洲影院
-http://111.12.110.95:6610/000000001001/5841816227539527643/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=5841816227539527643
+
 #EXTINF:-1 group-title="影视台",星影
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240279_1/playlist.m3u8?CONTENTID=00000110240279_1
 #EXTINF:-1 group-title="影视台",未知影视
