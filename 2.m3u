@@ -100,59 +100,59 @@ http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OT
 #EXTINF:-1 group-title="央视",CCTV-2
 http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-3
-http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV3HD_7000
 #EXTINF:-1 group-title="央视",CCTV-3
 http://125.210.152.20:9120/live/hzgq-cctv3gq-h264.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
-http://111.12.110.35:6610/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV-4HD_7500
 #EXTINF:-1 group-title="央视",CCTV-4
 
 #EXTINF:-1 group-title="央视",CCTV-6
 http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="央视",CCTV-6
-http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV6HD_7000
 #EXTINF:-1 group-title="央视",CCTV-7
 http://125.210.152.20:9120/live/hzgq-cctv7gq-h264.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
-http://111.20.33.93/TVOD/88888893/224/3221226192/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV7HD_7000
 #EXTINF:-1 group-title="央视",CCTV-8
 http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 group-title="央视",CCTV-8
-http://111.12.110.35:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV8HD_7000
 #EXTINF:-1 group-title="央视",CCTV-9
-http://111.12.110.35:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV9HD_7000
 #EXTINF:-1 group-title="央视",CCTV-9
-http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-10
-http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV10HD_7000
 #EXTINF:-1 group-title="央视",CCTV-10
-http://111.12.110.35:6610/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视",CCTV-11
-http://111.12.110.35:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV-11HD_7500
 #EXTINF:-1 group-title="央视",CCTV-11
-http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-12
-http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
+http://118.31.113.130:82/gudou.php?id=CCTV12HD_7000
 #EXTINF:-1 group-title="央视",CCTV-12
-http://125.210.152.19:9090/live/hzgq-cctv12gq-h264.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-13
-http://125.210.152.19:9090/live/hzgq-cctvnewsgq-h264.m3u8
+http://118.31.113.130:82/gudou.php?id=yueyuHD_7000
 #EXTINF:-1 group-title="央视",CCTV-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
-http://111.12.110.35:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV14HD_7000
 #EXTINF:-1 group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15
-http://111.12.110.35:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV-15HD_7500
 #EXTINF:-1 group-title="央视",CCTV-15
-http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-16
-http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8$4K
+http://118.31.113.130:82/gudou.php?id=CCTV-16HD_7500
 #EXTINF:-1 group-title="央视",CCTV-16
 http://125.210.152.20:9120/live/hzgq-cctv16gq-h264.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17
-http://111.12.110.35:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://118.31.113.130:82/gudou.php?id=CCTV-17HD_7500
 #EXTINF:-1 group-title="央视",CCTV-17
 http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K
@@ -160,7 +160,7 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="央视",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="央视",中国气象
-http://140.207.241.3:8080/live/program/live/zgqx/1300000/d1.m3u8
+
 
 #EXTINF:-1 group-title="影视台",连续剧4K
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
