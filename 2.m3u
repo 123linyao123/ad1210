@@ -197,7 +197,7 @@ http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="影视台",IPTV淘电影
 http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="影视台",IPTV淘剧场
-
+http://219.142.148.47:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="影视台",高分电影
 http://mmitv.top/pltv/yy.php?id=1353312849
 #EXTINF:-1 group-title="影视台",战争电影
