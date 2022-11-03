@@ -22,6 +22,9 @@
 翡翠台,http://113.64.147.199:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.207:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.216:808/hls/67/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
+
 
 翡翠华丽,http://23.237.10.66:16410$高清1080P
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
@@ -42,6 +45,7 @@
 无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 无线新闻,http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 无线新闻,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 
 无线财经资讯台,http://9.zhxinda.xyz/newss.php?id=2
 无线财经资讯台,http://120.84.96.53:808/hls/86/index.m3u8 
@@ -630,6 +634,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/d1.m3u8
 东方影视,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 
 湖南电视剧,http://124.232.231.246:6610/000000001001/201600020006/index.m3u8?A=&IASHttpSessionId=OTT
 湖南电影,http://[2409:8087:5050:20::3023]/000000001000/HD-8000k-1080P-xiaoxiangdy/index.m3u8#http://iptv.wolink.cc:889/hls/56/index.m3u8#http://cy731.7766.org:9901/tsfile/live/1104_1.m3u8#http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
