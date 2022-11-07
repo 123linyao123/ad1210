@@ -684,7 +684,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+舟山新闻,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
 
@@ -807,7 +808,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 无锡娱乐,http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
 无锡生活,http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
 无锡经济,http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
-舟山新闻,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 云和新闻,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 苏州新闻,https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
 苏州社会,https://liveshowbak2.kan0512.com/norecord/ncsztv2_sd/playlist.m3u8
@@ -815,10 +815,16 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 苏州电影,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 苏州生活,https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8
 
+南充新闻,http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv?zsicd
+南充公共,https://nczbpull.ncntv.com.cn/nctv/2005.m3u8?zsicd
+南充公共,http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv?zsicd
 乐山新闻综合,http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
 乐山新闻综合,http://channellive.leshantv.net/live/ch1.flv?zsicd
 乐山公共,http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel12/playlist.m3u8?zsicd
 乐山公共,http://channellive.leshantv.net/live/ch2.flv?zsicd山西经济与科教,http://liveflash.sxrtv.com/live/sxfinance.m3u8
+眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
+眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
+大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8?zsicd
 
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8
