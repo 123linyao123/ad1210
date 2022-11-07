@@ -336,7 +336,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 湖南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil
 湖南卫视,http://58.58.111.222:808/hls/18/index.m3u8#http://117.148.129.5/PLTV/88888888/224/3221231729/index.m3u8#http://111.12.110.95:6610/PLTV/77777
 
-
+浙江卫视,http://111.13.42.229/PLTV/88888888/224/3221226247/1.m3u8
 浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8
 浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225523/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$高清1080P
@@ -349,6 +349,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 浙江卫视,http://125.210.152.20:9120/live/hzgq-zjwsgq-h264.m3u8
 浙江卫视,http://125.210.152.19:9090/live/hzgq-zjwsgq-h264.m3u8
 
+江苏卫视,http://111.13.42.229/PLTV/88888888/224/3221226242/1.m3u8
 江苏卫视,http://111.20.33.93/PLTV/88888893/224/3221226200/index.m3u8
 江苏卫视,http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
 江苏卫视,http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8
@@ -376,6 +377,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 东方卫视,http://125.210.152.19:9090/live/hzgq-dftvgq-h264.m3u8
 东方卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
 
+北京卫视,http://111.13.42.229/PLTV/88888888/224/3221226367/1.m3u8
 北京卫视,http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8
 北京卫视,http://111.40.196.30/PLTV/88888888/224/3221225540/index.m3u8
 北京卫视,http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8
@@ -407,6 +409,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广东卫视,http://125.210.152.19:9090/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
 
+深圳卫视,http://111.13.42.229/PLTV/88888888/224/3221226245/1.m3u8
 深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8
 深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8$超清1080P
 深圳卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://39.134.66.66/TVOD/88888888/224/3221225668/index.m3u8
@@ -671,7 +674,19 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/playlist.m3u8
 娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w2136014950.m3u8
 
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
 
 北京文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy 
@@ -800,7 +815,11 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 苏州电影,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 苏州生活,https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8
 
-山西经济与科教,http://liveflash.sxrtv.com/live/sxfinance.m3u8
+乐山新闻综合,http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
+乐山新闻综合,http://channellive.leshantv.net/live/ch1.flv?zsicd
+乐山公共,http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel12/playlist.m3u8?zsicd
+乐山公共,http://channellive.leshantv.net/live/ch2.flv?zsicd山西经济与科教,http://liveflash.sxrtv.com/live/sxfinance.m3u8
+
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8
 山西公共,http://liveflash.sxrtv.com/live/sxpublic.m3u8
