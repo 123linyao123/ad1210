@@ -1,9 +1,9 @@
 💖丨港澳台,#genre#
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=3
+凤凰资讯,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=3
 
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=2
+凤凰中文,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=2
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
@@ -34,10 +34,10 @@ http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=2
 翡翠华丽,http://23.237.10.66:16410$高清1080P
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
 
-无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
+
+无线新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 无线新闻,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
-无线新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://9.zhxinda.xyz/newss.php?id=1
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
@@ -53,7 +53,7 @@ http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=2
 无线新闻,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=10
+无线财经资讯台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=10
 无线财经资讯台,http://120.84.96.62:808/hls/86/index.m3u8
 无线财经资讯台,http://9.zhxinda.xyz/newss.php?id=2
 无线财经资讯台,http://120.84.96.53:808/hls/86/index.m3u8 
@@ -73,14 +73,14 @@ TVB星河,http://27.47.68.15:808/hls/35/index.m3u8
 J2,http://173.211.42.73:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 J2,http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
 
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=13
+明珠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=13
 明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
 明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
 明珠台,http://www.penis18.org/stream/5c5ad77e753cbb8316ba8e169852e43a
 
-有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
+
+有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
-有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 有线新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
 有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -90,9 +90,9 @@ http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=13
 有线财经新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
 有线财经新闻台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
+ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
 ViuTV,http://radius.8866.org:800/hls/86/index.m3u8
-ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
 ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
@@ -101,6 +101,10 @@ ViuTV,http://113.78.73.16:762/hls/ch1/s.m3u8
 ViuTV,http://1xdezx93.v3n.pkoplink.com:30003/bysid/99
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
+
+now新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=16
+now财经,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=17
+now体育,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=15
 
 🏀｜体育台,#genre#
 
