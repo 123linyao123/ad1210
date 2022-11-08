@@ -69,6 +69,8 @@ http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19
 http://120.84.96.62:808/hls/86/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线财经
 http://120.84.96.78:808/hls/86/index.m3u8
+#EXTINF:-1 group-title="港澳台",无线财经
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
