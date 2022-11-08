@@ -689,6 +689,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 舟山新闻,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
+自山公共http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 
 北京文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy 
