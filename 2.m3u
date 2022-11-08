@@ -204,6 +204,15 @@ http://mmitv.top/pltv/yy.php?id=1353312849
 http://mmitv.top/pltv/yy.php?id=1353392400
 #EXTINF:-1 group-title="影视台",欧美影院
 
+#EXTINF:-1 group-title="影视台",IPTV高清院线
+http://119.39.128.18:88/hls/34/index.m3u8 
+#EXTINF:-1 group-title="影视台",IPTV抗战剧场
+http://119.39.128.18:88/hls/35/index.m3u8 
+#EXTINF:-1 group-title="影视台",IPTV古装剧场
+http://119.39.128.18:88/hls/36/index.m3u8 
+#EXTINF:-1 group-title="影视台",IPTV经典剧场
+http://119.39.128.18:88/hls/37/index.m3u8 
+
 #EXTINF:-1 group-title="影视台",亚洲影院
 
 #EXTINF:-1 group-title="影视台",星影
