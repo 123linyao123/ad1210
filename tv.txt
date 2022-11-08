@@ -63,6 +63,7 @@
 无线财经资讯台,http://120.84.96.74:808/hls/86/index.m3u8
 无线财经资讯台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
 无线财经资讯台,http://www.penis18.org/stream/7211c4b77b32ac22e11c3460402e442f
+无线财经资讯台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 TVB星河,http://171.108.239.16:8181/tsfile/live/1011_1.m3u8
 TVB星河,http://113.64.147.203:808/hls/135/index.m3u8
