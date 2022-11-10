@@ -9,6 +9,7 @@
 
 凤凰香港,http://173.211.42.73:8278/hkphoenix_twn/playlist.m3u8?tid=MCEC5533442155334421&ct=19237&tsum=d7b31be640bf0f3bdc9b577c70065a06
 
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
@@ -25,7 +26,6 @@
 翡翠台,http://113.64.147.199:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.207:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.216:808/hls/67/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
@@ -34,7 +34,7 @@
 翡翠华丽,http://23.237.10.66:16410$高清1080P
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
 
-
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 无线新闻,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
@@ -51,7 +51,7 @@
 无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 无线新闻,http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 无线新闻,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
+
 
 无线财经资讯台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=10
 无线财经资讯台,http://120.84.96.62:808/hls/86/index.m3u8
@@ -93,10 +93,10 @@ TVB功夫https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_17930220
 有线财经新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
 有线财经新闻台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
+ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
 ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
 ViuTV,http://radius.8866.org:800/hls/86/index.m3u8
-ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV,http://link.sczhgx.com:59845/hls/86/index.m3u8
