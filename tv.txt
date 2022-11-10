@@ -157,8 +157,7 @@ CCTV5+,http://111.13.42.235/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://111.13.42.242/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 
-CCTV风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$超清1080P#rtsp://221.203.83.34:554/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
-
+先锋乒羽,http://118.31.113.130:82/gudou.php?id=pingyu_1500
 
 广州竞赛,http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 
