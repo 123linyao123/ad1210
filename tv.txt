@@ -124,12 +124,11 @@ now体育,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=15
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://27.47.68.158:808/hls/18/index.m3u8
 
-
 CCTV5,http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
-CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT$超清1080P
-CCTV5,http://39.134.67.110/PLTV/88888888/224/3221225818/index.m3u8$超清1080P
-CCTV5,http://222.175.159.226:808/hls/5/index.m3u8$超清1080P
+CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+CCTV5,http://39.134.67.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5,http://222.175.159.226:808/hls/5/index.m3u8
 CCTV5,rtsp://221.203.83.35/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
 CCTV5,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
 CCTV5,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?
@@ -160,6 +159,7 @@ CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.
 先锋乒羽,http://118.31.113.130:82/gudou.php?id=pingyu_1500
 
 广州竞赛,http://www.kitcc.cn:8888/udp/239.253.43.75:5146
+广州竞赛,http://118.31.113.130:82/gudou.php?id=gzcompetition_1500
 
 Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
@@ -635,7 +635,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 山东齐鲁,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 山东齐鲁,http://www.xuweihome.vip:2222/udp/239.253.248.18:8000
 山东齐鲁,http://221.0.78.198:1681/hls/10225/index.m3u8
-
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
