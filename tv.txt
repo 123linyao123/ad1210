@@ -175,19 +175,21 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广东珠江,http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
 广东珠江,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 
-广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196$高清720P
-广东经济科教,http://113.101.124.246:808/hls/22/index.m3u8$高清1080P
 广东经济科教,http://113.64.147.18:808/hls/66/index.m3u8
+广东经济科教,http://diygz.f3322.org:9090/hls/71/index.m3u8
 广东经济科教,http://183.63.15.42:9901/tsfile/live/1006_1.m3u8
-广东经济科教,http://www.kitcc.cn:8888/udp/239.77.0.85:5146#http://diygz.f3322.org:9090/hls/71/index.m3u8#http://nsszds.f3322.net:808/hls/66/index.m3u8
+广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
+广东经济科教,http://113.101.124.246:808/hls/22/index.m3u8
+广东经济科教,http://www.kitcc.cn:8888/udp/239.77.0.85:5146
+广东经济科教,http://nsszds.f3322.net:808/hls/66/index.m3u8
 
 广东新闻,http://9.zhxinda.xyz/gdtv.php?pk=1186$高清720P
 广东新闻,http://113.101.124.246:808/hls/20/index.m3u8$高清1080P
 广东新闻,http://www.kitcc.cn:8888/udp/239.77.0.173:5146#http://www.superkit.cn:8888/udp/239.77.0.173:5146#http://120.236.17.34:808/hls/250/index.m3u8#http://120.236.17.36:808/hls/250/index.m3u8#http://mzwh4455.qicp.vip:280/hls/25/index.m3u8
 广东新闻,http://183.63.15.42:9901/tsfile/live/1004_1.m3u8
 
-广东影视,http://113.101.124.246:808/hls/25/index.m3u8$高清1080P
-广东影视,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8$高清720P
+广东影视,http://113.101.124.246:808/hls/25/index.m3u8
+广东影视,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8
 广东影视,http://183.63.15.42:9901/tsfile/live/1007_1.m3u8
 
 广东公共,http://113.101.124.246:808/hls/18/index.m3u8$高清1080P
@@ -234,7 +236,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
 
-增城综合,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8$高清1080P
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 深圳国际,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
 
@@ -295,13 +296,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 佛山三水,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8$高清720P
 东莞综合,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=4$高清720P
 东莞综合,http://www.kitcc.cn:8888/udp/239.253.43.104:5146#rtmp://stream.sun0769.com/dgrtv1/mp4:tv1_1500#http://fangsong.live/hls/dgtv.php?id=4#http://udpxy.hblianong.com:4022/udp/239.253.43.104:5146#http://diygz.f3322.org:9090/hls/101/index.m3u8#http://183.54.245.83:9090/hls/101/index.m3u8#http://mmitv.top/pltv/itouchtv.php?id=gdxwzh&pk=2395#http://www.nettvpro.live/hls/itouch.php?id=2395
-
 东莞生活,http://www.kitcc.cn:8888/udp/239.253.43.105:5146#http://udpxy.hblianong.com:4022/udp/239.253.43.105:5146#http://fangsong.live/hls/dgtv.php?id=5#rtmp://stream.sun0769.com/dgrtv1/mp4:tv2_1500#http://mmitv.top/pltv/itouchtv.php?id=dggg&pk=1235#http://www.nettvpro.live/hls/itouch.php?id=1235
 东莞生活,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=5$高清720P
 
-惠州综合,http://ye23.vip/z7z8/2021/0752.php?id=1$高清720P
-珠海综合,http://120.196.218.201:808/hls/67/index.m3u8$高清720P
-珠海公共,http://120.196.218.201:808/hls/66/index.m3u8$高清720P
 梅州综合,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8$高清720P
 梅州二套,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8$高清720P
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$高清720P
