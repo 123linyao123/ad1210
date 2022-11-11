@@ -6,7 +6,7 @@
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
-凤凰香港,http://173.211.42.73:8278/hkphoenix_twn/playlist.m3u8?tid=MCEC5533442155334421&ct=19237&tsum=d7b31be640bf0f3bdc9b577c70065a06
+凤凰香港
 
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
@@ -80,12 +80,12 @@ J2,http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
 
 TVB功夫https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
 有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
