@@ -405,8 +405,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 深圳卫视,http://125.210.152.19:9090/live/hzgq-szwsgq-h264.m3u8
 深圳卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil
 
-
-香港卫视,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=6
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$高清720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$高清720P
 
@@ -414,12 +412,11 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 澳门卫视,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8$标清720P
 澳门卫视,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8$标清720P
 
-
+天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000000831&livemode=1&stbId=2&channel-id=ystenlive
+天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8
 天津卫视,http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8$超清1080P
 天津卫视,http://222.175.159.226:808/hls/47/index.m3u8$超清1080P
-天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000000831&livemode=1&stbId=2&channel-id=ystenlive
-天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://39.134.66.66/TVOD/88888888/224/3221225665/index.m3u8
 天津卫视,http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
 天津卫视,http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
@@ -427,11 +424,11 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 天津卫视,http://125.210.152.19:9090/live/hzgq-tjwsgq-h264.m3u8
 天津卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
 
+山东卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
 山东卫视,http://111.40.196.30/PLTV/88888888/224/3221225543/index.m3u8
 山东卫视,http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8
 山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 山东卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-山东卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
 山东卫视,http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
 山东卫视,http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
 山东卫视,http://125.210.152.20:9120/live/hzgq-sdwsgq-h264.m3u8
@@ -439,10 +436,10 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 山东卫视,http://125.210.152.19:9090/live/hzgq-sdwsgq-h264.m3u8
 山东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil
 
-湖北卫视,http://111.40.196.30/PLTV/88888888/224/3221225547/index.m3u8
-湖北卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖北卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000024621&livemode=1&stbId=2&channel-id=ystenlive
 湖北卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive
+湖北卫视,http://111.40.196.30/PLTV/88888888/224/3221225547/index.m3u8
+湖北卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖北卫视,http://111.20.33.93/PLTV/88888893/224/3221226194/index.m3u8
 湖北卫视,http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
 湖北卫视,http://111.20.33.93/TVOD/88888893/224/3221226206/index.m3u8
@@ -457,16 +454,17 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 四川卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 四川卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
 
-重庆卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 重庆卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000018937&livemode=1&stbId=2&channel-id=ystenlive
+重庆卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 重庆卫视,http://125.210.152.20:9120/live/hzgq-cqwsgq-h264.m3u8
 重庆卫视,http://125.210.152.19:9090/live/hzgq-cqwsgq-h264.m3u8
 重庆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
 
-安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8$超清1080P
-安徽卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000030159&livemode=1&stbId=2&channel-id=ystenlive
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000020780&livemode=1&stbId=2&channel-id=ystenlive
+安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8$超清1080P
+安徽卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+安徽卫视,http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8
 安徽卫视,http://125.210.152.20:9120/live/hzgq-ahwsgq-h264.m3u8
 安徽卫视,http://125.210.152.19:9090/live/hzgq-ahwsgq-h264.m3u8
 安徽卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil
