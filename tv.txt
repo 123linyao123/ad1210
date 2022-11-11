@@ -512,34 +512,35 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 山西卫视,http://111.20.33.93/TVOD/88888888/224/3221225763/index.m3u8
 山西卫视,rtsp://221.203.83.34:554/PLTV/460033/224/0/3221226042/3221225917.smil
 
+陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 陕西卫视,http://111.20.33.70/TVOD/88888893/224/3221226388/index.m3u8
 陕西卫视,http://111.40.196.34/PLTV/88888888/224/3221225582/index.m3u8$标清576P
-陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 陕西卫视,http://125.210.152.20:9120/live/hszx-shanxitv-h264.m3u8
 陕西卫视,http://125.210.152.20:9120/live/hszx-sxtv-h264.m3u8
 陕西卫视,http://125.210.152.19:9090/live/hszx-shanxitv-h264.m3u8
 陕西卫视,http://125.210.152.19:9090/live/hszx-sxtv-h264.m3u8
 
+海南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
 海南卫视,http://111.40.196.35/PLTV/88888888/224/3221225623/index.m3u8
 海南卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-海南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
 海南卫视,http://125.210.152.20:9120/live/hszx-lytv-h264.m3u8
 海南卫视,http://125.210.152.19:9090/live/hszx-lytv-h264.m3u8
 海南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226693/10000100000000060000000006385285_0.smil
 
+云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
 云南卫视,http://222.175.159.226:808/hls/60/index.m3u8
-云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 云南卫视,http://111.20.33.93/TVOD/88888888/224/3221225751/index.m3u8
 云南卫视,http://125.210.152.20:9120/live/hzgq-ynwsgq-h264.m3u8
 云南卫视,http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
 
+吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 吉林卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 吉林卫视,http://125.210.152.20:9120/live/hzgq-jlwsgq-h264.m3u8
 吉林卫视,http://125.210.152.19:9090/live/hzgq-jlwsgq-h264.m3u8
 吉林卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8$超清1080P
+
 
 河北卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 河北卫视,http://125.210.152.20:9120/live/hzgq-hbwsgq1-h264.m3u8
