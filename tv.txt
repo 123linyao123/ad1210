@@ -243,6 +243,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
 
+广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo&$1920x1080
+广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds&$1920x1080
+
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 深圳国际,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
 
@@ -314,6 +317,13 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 肇庆综合,https://kfs-live.nanyuecloud.com/live/nwezhaoqing1.m3u8?txSecret=8bafc37137941d1fe45f31b2b33a8d18&txTime=63D8797F#http://www.kitcc.cn:8888/udp/239.253.43.1:5146#http://www.nettvpro.live/hls/zhaoqing.php?id=zhpd
 肇庆生活,https://kfs-live.nanyuecloud.com/live/nwezhaoqing2.m3u8?txSecret=67969fe564e37a413508527ce0205f72&txTime=63D8797F#http://www.kitcc.cn:8888/udp/239.253.43.2:5146#http://www.nettvpro.live/hls/zhaoqing.php?id=ggpd
+
+信宜1,http://mmitv.top/pltv/itouchtv.php?id=xytv1&$1280x720
+信宜1,http://fangsong.live/hls/itouchtv.php?id=xytv1&$1280x720
+化州综合,http://mmitv.top/pltv/itouchtv.php?id=hzzh&$1280x720
+化州综合,http://fangsong.live/hls/itouchtv.php?id=hzzh&$1280x720
+徐闻综合,http://mmitv.top/pltv/itouchtv.php?id=xwzh&$1280x720
+徐闻综合,http://fangsong.live/hls/itouchtv.php?id=xwzh&$1280x720
 
 📡 | 卫视台,#genre#
 湖南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000032695&livemode=1&stbId=2&channel-id=ystenlive
