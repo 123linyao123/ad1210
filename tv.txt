@@ -174,27 +174,27 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广东珠江,http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
 广东珠江,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 
-广东经济科教,http://113.64.147.18:808/hls/66/index.m3u8
+广东经济科教,http://www.kitcc.cn:8888/udp/239.77.0.85:5146
 广东经济科教,http://diygz.f3322.org:9090/hls/71/index.m3u8
+广东经济科教,http://113.64.147.18:808/hls/66/index.m3u8
 广东经济科教,http://183.63.15.42:9901/tsfile/live/1006_1.m3u8
 广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
 广东经济科教,http://113.101.124.246:808/hls/22/index.m3u8
-广东经济科教,http://www.kitcc.cn:8888/udp/239.77.0.85:5146
 广东经济科教,http://nsszds.f3322.net:808/hls/66/index.m3u8
 
-广东新闻,http://fangsong.live/hls/itouchtv.php?id=gdxw&$1280x720
-广东新闻,http://mmitv.top/pltv/itouchtv.php?id=gdxw&$1280x720
-广东新闻,http://www.kitcc.cn:8888/udp/239.77.0.173:5146
 广东新闻,http://www.superkit.cn:8888/udp/239.77.0.173:5146
+广东新闻,http://www.kitcc.cn:8888/udp/239.77.0.173:5146
+广东新闻,http://fangsong.live/hls/itouchtv.php?id=gdxw&
+广东新闻,http://mmitv.top/pltv/itouchtv.php?id=gdxw&
 广东新闻,http://120.236.17.36:808/hls/250/index.m3u8
 广东新闻,http://mzwh4455.qicp.vip:280/hls/25/index.m3u8
 广东新闻,http://9.zhxinda.xyz/gdtv.php?pk=1186
 广东新闻,http://113.101.124.246:808/hls/20/index.m3u8
 广东新闻,http://183.63.15.42:9901/tsfile/live/1004_1.m3u8
 
-广东影视,http://fangsong.live/hls/itouchtv.php?id=gdys&$1280x720
-广东影视,http://mmitv.top/pltv/itouchtv.php?id=gdys&$1280x720
+广东影视,http://mmitv.top/pltv/itouchtv.php?id=gdys&
 广东影视,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8
+广东影视,http://fangsong.live/hls/itouchtv.php?id=gdys&$
 广东影视,http://113.101.124.246:808/hls/25/index.m3u8
 广东影视,http://183.63.15.42:9901/tsfile/live/1007_1.m3u8
 
