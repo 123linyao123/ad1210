@@ -240,21 +240,21 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
 
-广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo&$1920x1080
 广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds&$1920x1080
+广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo&$1920x1080
 
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 深圳国际,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
 
-深圳财经,https://sztv-live.cutv.com/3vlcoxP/500/3aiv4cl.m3u8$高清720P
-深圳财经,http://ye23.win/iptv/sztv.php?id=5?$高清720P
-深圳财经,http://www.kitcc.cn:8888/udp/239.77.1.242:5146#http://ye23.win/iptv/sztv.php?id=5
+深圳财经,http://www.kitcc.cn:8888/udp/239.77.1.242:5146
+深圳财经,https://sztv-live.cutv.com/3vlcoxP/500/3aiv4cl.m3u8
+深圳财经,http://ye23.win/iptv/sztv.php?id=5?
 
 深圳娱乐,http://www.kitcc.cn:8888/udp/239.77.1.243:5146#http://ye23.win/iptv/sztv.php?id=6#http://fangsong.live/hls/ysz.php?id=szyl
 深圳娱乐,http://ye23.win/iptv/sztv.php?id=6?$高清720P
 
-深圳电视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
-深圳电视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
+深圳电视剧,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
+深圳电视剧,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
 
 深圳都市,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
 深圳都市,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
@@ -269,14 +269,12 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 深圳都市,http://fangsong.live/hls/ysz.php?id=szds
 深圳都市,http://ye23.win/iptv/sztv.php?id=2
 
-深圳公共,http://shazui.8866.org:800/hls/30/index.m3u8
 深圳公共,http://www.kitcc.cn:8888/udp/239.77.1.178:5146
+深圳公共,http://shazui.8866.org:800/hls/30/index.m3u8
 深圳公共,http://mmitv.top/pltv/itouchtv.php?id=&pk=1213
 深圳公共,http://stream.guihet.com/t/sztv.php?id=4
 深圳公共,http://ye23.win/iptv/sztv.php?id=4
-深圳公共,http://fangsong.live/hls/ysz.php?id=szgg
 
-深圳龙岗,http://113.101.124.246:808/hls/101/index.m3u8$高清1080P
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8$标清576P
 
 佛山公共,http://www.kitcc.cn:8888/udp/239.253.43.53:5146#http://udpxy.hblianong.com:4022/udp/239.253.43.53:5146#http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8#http://121.51.42.151/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8#http://121.51.249.88/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8#http://www.nettvpro.live/hls/foshan.php?id=fsgg
