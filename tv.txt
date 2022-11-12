@@ -871,6 +871,9 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8 
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8 
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8 
+4K超清电影,http://182.150.115.26:8091/custom28.m3u8
+华数4K,http://182.150.115.26:8091/custom27.m3u8
+1,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 
 林正英,http://mmitv.top/pltv/yy.php?id=34229877
 战争电影,http://mmitv.top/pltv/yy.php?id=1353392400
