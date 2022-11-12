@@ -617,9 +617,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 📺｜地方台,#genre#
 
+山东齐鲁,http://www.xuweihome.vip:2222/udp/239.253.248.18:8000
 山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
 山东齐鲁,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
-山东齐鲁,http://www.xuweihome.vip:2222/udp/239.253.248.18:8000
 山东齐鲁,http://221.0.78.198:1681/hls/10225/index.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
