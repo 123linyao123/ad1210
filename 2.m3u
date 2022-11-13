@@ -43,17 +43,17 @@ http://120.84.96.78:808/hls/86/index.m3u8
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 group-title="体育台",CCTV-5
-http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://118.31.113.130:82/gudou.php?id=CCTV5HD_7000
 #EXTINF:-1 group-title="体育台",CCTV-5+
-http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="体育台",CCTV-5+
 http://125.210.152.20:9120/live/hzgq-cctvzhgq-h264.m3u8
 #EXTINF:-1 group-title="体育台",CCTV-5+
-http://118.31.113.130:82/gudou.php?id=CCTV5plusHD_7000
+
 #EXTINF:-1 group-title="体育台",广东体育
-http://xjayrf.tv888.top:9901/tsfile/live/1014_1.m3u8
+
 #EXTINF:-1 group-title="体育台",广东体育
 http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="体育台",广东体育
@@ -61,11 +61,11 @@ http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud
 #EXTINF:-1 group-title="体育台",广州竞赛
 http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 #EXTINF:-1 group-title="体育台",广州竞赛
-http://118.31.113.130:82/gudou.php?id=gzcompetition_1500
+
 #EXTINF:-1 group-title="体育台",先锋乒羽
-http://118.31.113.130:82/gudou.php?id=pingyu_1500
+
 #EXTINF:-1 group-title="体育台",劲爆体育
-http://118.31.113.130:82/gudou.php?id=jinbaotiyu_1500
+
 
 #EXTINF:-1 group-title="央视",CCTV-1
 http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000002226&livemode=1&stbId=10&channel-id=bestzb
