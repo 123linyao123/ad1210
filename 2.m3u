@@ -211,7 +211,7 @@ http://epg.112114.xyz/douyu/3637765
 http://epg.112114.xyz/douyu/3637778
 
 #EXTINF:-1 group-title="卫视",湖南卫视
-
+http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000032695&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 group-title="卫视",湖南卫视
 
 #EXTINF:-1 group-title="卫视",江苏卫视
@@ -219,7 +219,7 @@ http://epg.112114.xyz/douyu/3637778
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://125.210.152.20:9120/live/hzgq-jswsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
 
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -239,7 +239,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://125.210.152.20:9120/live/hzgq-szwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
-
+http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 group-title="卫视",北京卫视
 
 #EXTINF:-1 group-title="卫视",天津卫视
