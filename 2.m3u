@@ -15,23 +15,6 @@ http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台
 
-#EXTINF:-1 group-title="港澳台",翡翠台
-
-#EXTINF:-1 group-title="港澳台",翡翠台
-
-#EXTINF:-1 group-title="港澳台",翡翠台
-
-#EXTINF:-1 group-title="港澳台",翡翠台
-
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://jyjxy.7766.org:808/hls/36/index.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://www.penis18.org/stream/9b9e3e360f9931984f246f81c429cf81
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://118.31.113.130:82/gudou.php?id=1350_4500
-
 #EXTINF:-1 group-title="港澳台",翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="港澳台",翡翠华丽
@@ -42,19 +25,16 @@ http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://9.zhxinda.xyz/newss.php?id=1
 #EXTINF:-1 group-title="港澳台",无线新闻
-http://shazui.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://111.229.84.232/yulin/tvb.php?id=1
-#EXTINF:-1 group-title="港澳台",无线新闻
 http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://www.nettvpro.live/hls/tvb.php?id=1
+
 #EXTINF:-1 group-title="港澳台",无线新闻
-http://23.237.10.66:16110
+http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
-https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
+http://radius.8866.org:800/hls/82/index.m3u8
+
+
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://link.sczhgx.com:59845/hls/82/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
