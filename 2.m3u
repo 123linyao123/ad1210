@@ -141,7 +141,7 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="影视台",连续剧4K
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 group-title="影视台",北京4K超清
-http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+
 #EXTINF:-1 group-title="影视台",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="影视台",CHC动作电影
@@ -155,7 +155,7 @@ http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTEN
 #EXTINF:-1 group-title="影视台",CHC高清电影
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 group-title="影视台",CHC高清电影
-http://118.31.113.130:82/gudou.php?id=CHCHD_7000
+
 #EXTINF:-1 group-title="影视台",周星驰粤语
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视台",吴孟达
@@ -163,7 +163,7 @@ http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-27
 #EXTINF:-1 group-title="影视台",林正英
 http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视台",IPTV淘电影
-http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
+
 #EXTINF:-1 group-title="影视台",IPTV淘电影
 http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="影视台",IPTV淘剧场
@@ -189,8 +189,6 @@ http://119.39.128.18:88/hls/37/index.m3u8
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240279_1/playlist.m3u8?CONTENTID=00000110240279_1
 #EXTINF:-1 group-title="影视台",未知影视
 http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="影视台",林正英
-http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视台",周末影院
 http://epg.112114.xyz/douyu/3637765
 #EXTINF:-1 group-title="影视台",特辑影院
