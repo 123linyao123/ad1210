@@ -31,20 +31,20 @@ http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
 http://www.penis18.org/stream/9b9e3e360f9931984f246f81c429cf81
 #EXTINF:-1 group-title="港澳台",翡翠台
 http://118.31.113.130:82/gudou.php?id=1350_4500
+
 #EXTINF:-1 group-title="港澳台",翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="港澳台",翡翠华丽
 http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://shazui.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
+
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://9.zhxinda.xyz/newss.php?id=1
+#EXTINF:-1 group-title="港澳台",无线新闻
+http://shazui.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 group-title="港澳台",无线新闻
+http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://111.229.84.232/yulin/tvb.php?id=1
 #EXTINF:-1 group-title="港澳台",无线新闻
@@ -65,6 +65,10 @@ http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
+#EXTINF:-1 group-title="港澳台",无线新闻
+http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
+
+
 #EXTINF:-1 group-title="港澳台",无线财经
 http://120.84.96.62:808/hls/86/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线财经
