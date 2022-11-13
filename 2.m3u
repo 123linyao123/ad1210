@@ -350,9 +350,9 @@ http://124.232.231.246:6610/000000001001/201600020006/index.m3u8?A=&IASHttpSessi
 #EXTINF:-1 group-title="地方台",湖南经视
 http://iptv.wolink.cc:889/hls/53/index.m3u8#http://cy731.7766.org:9901/tsfile/live/1058_1.m3u8
 #EXTINF:-1 group-title="地方台",黑龙江都市
-https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+
 #EXTINF:-1 group-title="地方台",黑龙江影视
-https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+
 #EXTINF:-1 group-title="地方台",宁夏公共
 http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 #EXTINF:-1 group-title="地方台",银川公共
@@ -366,7 +366,7 @@ http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 #EXTINF:-1 group-title="地方台",北京文艺
 http://live.cooltv.top/tv/btime.php?id=btvwy 
 #EXTINF:-1 group-title="地方台",济宁综合
-http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+
 
 #EXTINF:-1 group-title="广东台",广东珠江
 http://www.kitcc.cn:8888/udp/239.77.0.1:5146
