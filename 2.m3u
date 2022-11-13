@@ -28,33 +28,17 @@ http://9.zhxinda.xyz/newss.php?id=1
 http://app.nettv.vip/hls/tvb.php?id=1
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://www.nettvpro.live/hls/tvb.php?id=1
-
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://shazui.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://radius.8866.org:800/hls/82/index.m3u8
-
-
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://link.sczhgx.com:59845/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://120.132.122.244:59845/hls/82/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
-#EXTINF:-1 group-title="港澳台",无线新闻
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
-
 
 #EXTINF:-1 group-title="港澳台",无线财经
 http://120.84.96.62:808/hls/86/index.m3u8
 #EXTINF:-1 group-title="港澳台",无线财经
 http://120.84.96.78:808/hls/86/index.m3u8
-#EXTINF:-1 group-title="港澳台",无线财经
-https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 #EXTINF:-1 group-title="体育台",CCTV-5
 http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
