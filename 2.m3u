@@ -195,23 +195,23 @@ http://epg.112114.xyz/douyu/3637765
 http://epg.112114.xyz/douyu/3637778
 
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://118.31.113.130:82/gudou.php?id=hunanHD_7000
+
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://118.31.113.130:82/gudou.php?id=jiangsuHD_7000
+
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://125.210.152.20:9120/live/hzgq-jswsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://118.31.113.130:82/gudou.php?id=zhejiangHD_7000
+
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+
 #EXTINF:-1 group-title="卫视",东方卫视
 http://125.210.152.20:9120/live/hzgq-dftvgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
-http://118.31.113.130:82/gudou.php?id=dongfangHD_7000
+
 #EXTINF:-1 group-title="卫视",广东卫视
-http://118.31.113.130:82/gudou.php?id=guangdongHD_7000
+
 #EXTINF:-1 group-title="卫视",广东卫视
 http://117.169.120.136:8080/live/guangdongstv/.m3u8
 #EXTINF:-1 group-title="卫视",南方卫视
@@ -219,27 +219,27 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="卫视",南方卫视
 
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://118.31.113.130:82/gudou.php?id=shenzhenHD_7000
+
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://125.210.152.20:9120/live/hzgq-szwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
-http://118.31.113.130:82/gudou.php?id=beijingHD_7000
+
 #EXTINF:-1 group-title="卫视",北京卫视
-http://111.13.42.234/PLTV/88888888/224/3221226436/1.m3u8
+
 #EXTINF:-1 group-title="卫视",天津卫视
 http://125.210.152.20:9120/live/hzgq-tjwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",天津卫视
-http://118.31.113.130:82/gudou.php?id=tianjinHD_7000
+
 #EXTINF:-1 group-title="卫视",山东卫视
-http://118.31.113.130:82/gudou.php?id=shandongHD_7000
+
 #EXTINF:-1 group-title="卫视",山东卫视
 http://125.210.152.20:9120/live/hzgq-sdwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
 http://125.210.152.20:9120/live/hzgq-hbwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://118.31.113.130:82/gudou.php?id=hubeiHD_7000
+
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://118.31.113.130:82/gudou.php?id=heilongjiangHD_7000
+
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://125.210.152.20:9120/live/hzgq-hljwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
@@ -247,41 +247,41 @@ http://121.51.249.45/live1.ahtv.cn/ahws/hd/live.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://125.210.152.20:9120/live/hzgq-ahwsgq-h264.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://118.31.113.130:82/gudou.php?id=liaoningHD_7000
+
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
+
 #EXTINF:-1 group-title="卫视",东南卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+
 #EXTINF:-1 group-title="卫视",东南卫视
 
 #EXTINF:-1 group-title="卫视",江西卫视
 http://222.175.159.226:808/hls/56/index.m3u8
 #EXTINF:-1 group-title="卫视",江西卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://125.210.152.20:9120/live/hzgq-cqwsgq-h264.m3u8
+
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://118.31.113.130:82/gudou.php?id=chongqingHD_7000
+
 #EXTINF:-1 group-title="卫视",四川卫视
-http://118.31.113.130:82/gudou.php?id=sichuanHD_7000
+
 #EXTINF:-1 group-title="卫视",四川卫视
 http://39.134.67.110/PLTV/88888888/224/3221225970/index.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+
 #EXTINF:-1 group-title="卫视",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
-http://125.210.152.20:9120/live/hzgq-henangq-h264.m3u8
+
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://118.31.113.130:82/gudou.php?id=guizhouHD_7000
+
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
+
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://60.10.167.88:808/hls/36/index.m3u8
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="卫视",甘肃卫视
 http://60.10.167.88:808/hls/44/index.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视
@@ -297,17 +297,17 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视",青海卫视
 http://60.10.167.88:808/hls/40/index.m3u8
 #EXTINF:-1 group-title="卫视",西藏卫视
-http://222.175.159.226:808/hls/71/index.m3u8
+
 #EXTINF:-1 group-title="卫视",西藏卫视
-http://60.10.167.88:808/hls/42/index.m3u8
+
 #EXTINF:-1 group-title="卫视",内蒙古卫视
-http://222.175.159.226:808/hls/66/index.m3u8
+
 #EXTINF:-1 group-title="卫视",内蒙古卫视
-http://60.10.167.88:808/hls/39/index.m3u8
+
 #EXTINF:-1 group-title="卫视",宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+
 #EXTINF:-1 group-title="卫视",宁夏卫视
-http://222.175.159.226:808/hls/67/index.m3u8
+
 #EXTINF:-1 group-title="卫视",新疆卫视
 http://222.175.159.226:808/hls/66/index.m3u8
 #EXTINF:-1 group-title="卫视",新疆卫视
@@ -321,18 +321,18 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视",延边卫视
 
 #EXTINF:-1 group-title="卫视",河北卫视
-http://118.31.113.130:82/gudou.php?id=hebeiHD_7000
+
 #EXTINF:-1 group-title="卫视",康巴卫视
 
 
 #EXTINF:-1 group-title="地方台",山东齐鲁
-https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
+
 #EXTINF:-1 group-title="地方台",山东齐鲁
 http://221.0.78.198:1681/hls/10225/index.m3u8
 #EXTINF:-1 group-title="地方台",东方影视
-http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8?
+?
 #EXTINF:-1 group-title="地方台",东方影视
-http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+
 #EXTINF:-1 group-title="地方台",云南都市
 https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 group-title="地方台",云南都市
