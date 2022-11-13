@@ -70,65 +70,65 @@ http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 #EXTINF:-1 group-title="央视",CCTV-1
 http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000002226&livemode=1&stbId=10&channel-id=bestzb
 #EXTINF:-1 group-title="央视",CCTV-1
-http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视",CCTV-2
-http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视",CCTV-2
-http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视",CCTV-3
-http://118.31.113.130:82/gudou.php?id=CCTV3HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-3
 http://125.210.152.20:9120/live/hzgq-cctv3gq-h264.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4
-http://118.31.113.130:82/gudou.php?id=CCTV-4HD_7500
+
 #EXTINF:-1 group-title="央视",CCTV-4
 
 #EXTINF:-1 group-title="央视",CCTV-6
-http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1 group-title="央视",CCTV-6
-http://118.31.113.130:82/gudou.php?id=CCTV6HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-7
 http://125.210.152.20:9120/live/hzgq-cctv7gq-h264.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7
-http://118.31.113.130:82/gudou.php?id=CCTV7HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-8
 http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 group-title="央视",CCTV-8
-http://118.31.113.130:82/gudou.php?id=CCTV8HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-9
 http://118.31.113.130:82/gudou.php?id=CCTV9HD_7000
 #EXTINF:-1 group-title="央视",CCTV-9
 
 #EXTINF:-1 group-title="央视",CCTV-10
-http://118.31.113.130:82/gudou.php?id=CCTV10HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-10
 
 #EXTINF:-1 group-title="央视",CCTV-11
-http://118.31.113.130:82/gudou.php?id=CCTV-11HD_7500
+
 #EXTINF:-1 group-title="央视",CCTV-11
 
 #EXTINF:-1 group-title="央视",CCTV-12
-http://118.31.113.130:82/gudou.php?id=CCTV12HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-12
 
 #EXTINF:-1 group-title="央视",CCTV-13
-http://118.31.113.130:82/gudou.php?id=yueyuHD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-13
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
-http://118.31.113.130:82/gudou.php?id=CCTV14HD_7000
+
 #EXTINF:-1 group-title="央视",CCTV-14
 http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15
-http://118.31.113.130:82/gudou.php?id=CCTV-15HD_7500
+
 #EXTINF:-1 group-title="央视",CCTV-15
 
 #EXTINF:-1 group-title="央视",CCTV-16
-http://118.31.113.130:82/gudou.php?id=CCTV-16HD_7500
+
 #EXTINF:-1 group-title="央视",CCTV-16
-http://125.210.152.20:9120/live/hzgq-cctv16gq-h264.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-17
-http://118.31.113.130:82/gudou.php?id=CCTV-17HD_7500
+
 #EXTINF:-1 group-title="央视",CCTV-17
 http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K
