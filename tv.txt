@@ -399,12 +399,12 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广东卫视,http://125.210.152.19:9090/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
 
+深圳卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive
 深圳卫视,http://111.13.42.229/PLTV/88888888/224/3221226245/1.m3u8
 深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8
 深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8$超清1080P
 深圳卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://39.134.66.66/TVOD/88888888/224/3221225668/index.m3u8
 深圳卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000009227&livemode=1&stbId=2&channel-id=ystenlive
-深圳卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive
 深圳卫视,http://111.20.33.93/PLTV/88888893/224/3221226205/index.m3u8
 深圳卫视,http://125.210.152.20:9120/live/hzgq-szwsgq-h264.m3u8
 深圳卫视,http://125.210.152.19:9090/live/hzgq-szwsgq-h264.m3u8
