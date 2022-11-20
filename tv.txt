@@ -150,6 +150,7 @@ CCTV5+,http://111.13.42.242/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 
 先锋乒羽,http://118.31.113.130:82/gudou.php?id=pingyu_1500
+先锋乒羽,http://39.135.55.105:6610/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
 
 广州竞赛,http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 广州竞赛,http://118.31.113.130:82/gudou.php?id=gzcompetition_1500
@@ -618,6 +619,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+河东综合,rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
+河东影视,rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 
 上海新闻,http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
@@ -657,6 +660,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 娄底综合,http://119.39.242.52:1935/live/zonghe/chunklist_w1680005588.m3u8
 娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/playlist.m3u8
 娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w2136014950.m3u8
+
+武汉电视剧,http://113.57.109.37:9901/tsfile/live/1019_1.m3u8
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
