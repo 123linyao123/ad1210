@@ -1,4 +1,4 @@
-{"spider":"./jar/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc",
+{"spider":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/jar/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc",
 "lives":[{"name":"综合一","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合二","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"综合三","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
