@@ -26,7 +26,7 @@
 翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
-
+翡翠台,https://epg.pm/stream/8f86e1be1703a257427ac05856c98c875cda0cacb1b9829829125cc00074efdd.ctv
 
 翡翠华丽,http://23.237.10.66:16410$高清1080P
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
@@ -116,6 +116,7 @@ ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://27.47.68.158:808/hls/18/index.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
 
 CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225752/index.m3u8
 CCTV5,http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
@@ -154,6 +155,7 @@ CCTV5+,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.
 
 广州竞赛,http://www.kitcc.cn:8888/udp/239.253.43.75:5146
 广州竞赛,http://118.31.113.130:82/gudou.php?id=gzcompetition_1500
+广州竞赛,http://9.zhxinda.xyz/gz.php?id=jingsai
 
 Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
