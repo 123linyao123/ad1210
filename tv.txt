@@ -80,14 +80,14 @@ J2,http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
 明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
 明珠台,http://www.penis18.org/stream/5c5ad77e753cbb8316ba8e169852e43a
 
-TVB功夫https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
 有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
@@ -95,7 +95,6 @@ TVB功夫https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_17930220
 有线财经新闻台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 ViuTV,https://cdn.hklive.tv:443/xxxx/99/index.m3u8
-ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
 ViuTV,http://shazui.8866.org:800/hls/86/index.m3u8
 ViuTV,http://radius.8866.org:800/hls/86/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
@@ -105,6 +104,7 @@ ViuTV,http://113.78.73.16:762/hls/ch1/s.m3u8
 ViuTV,http://1xdezx93.v3n.pkoplink.com:30003/bysid/99
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
+ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
 
 🏀｜体育台,#genre#
 
