@@ -7,7 +7,6 @@
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
@@ -27,13 +26,18 @@
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
 翡翠台,https://epg.pm/stream/8f86e1be1703a257427ac05856c98c875cda0cacb1b9829829125cc00074efdd.ctv
+翡翠台,http://118.31.113.130:82/gudou.php?id=1350_4500
+翡翠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
+翡翠台,http://mzwh4455.qicp.vip:280/hls/35/index.m3u8
+翡翠台,http://27.47.71.97:808/hls/36/index.m3u8
 
-翡翠华丽,http://23.237.10.66:16410$高清1080P
+翡翠华丽,http://23.237.10.66:16410
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
 
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-无线新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
+无线新闻,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
+无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 无线新闻,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 无线新闻,http://9.zhxinda.xyz/newss.php?id=1
