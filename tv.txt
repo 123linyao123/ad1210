@@ -6,6 +6,7 @@
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
+翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
@@ -33,6 +34,7 @@
 
 翡翠华丽,http://23.237.10.66:16410
 翡翠华丽,http://www.penis18.org/stream/a816759db9983221435a3556a57131bf
+翡翠华丽,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -82,6 +84,7 @@ J2,http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
 
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
+有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
@@ -89,6 +92,7 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 有线新闻台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 
+有线财经新闻台,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
 有线财经新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
@@ -105,6 +109,24 @@ ViuTV,http://1xdezx93.v3n.pkoplink.com:30003/bysid/99
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 ViuTV,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=8
+
+now新闻台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
+now财经台,https://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
+now直播台,https://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
+有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+中天新闻台,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+台视新闻台,https://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS亚洲台,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+莲花电影台,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+中天综合台,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+Boo驚悚台,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
+民视频道,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+好莱坞电影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 
 🏀｜体育台,#genre#
 
