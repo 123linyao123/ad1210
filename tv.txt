@@ -599,7 +599,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 广西卫视,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 
-山西卫视,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd$高清720P
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
+山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
+山西卫视,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
 山西卫视,http://222.175.159.226:808/hls/64/index.m3u8$标清576P
 山西卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://39.136.48.28:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000032/index.m3u8
 山西卫视,http://111.20.33.93/TVOD/88888888/224/3221225763/index.m3u8
