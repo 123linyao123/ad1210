@@ -18,8 +18,6 @@
 {"key":"csp_Cokemv","name":"📕Coke┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7d78462c5bc24246b0c5400a3132a476"},
 {"key":"csp_Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -45,10 +43,6 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4聚合","name":"T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=6s","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XYQBiu_17看","name":"🏀 17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/17看.json"},
-{"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/88看球.json"},
-{"key":"csp_xpath_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPath3","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/dj看球.json"},
-{"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/310直播.json"},
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/企鹅直播.json"},
 {"key":"csp_xBPQ_抓饭","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/json/抓饭体育.json"},
 
