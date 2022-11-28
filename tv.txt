@@ -875,18 +875,26 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
+
+
 云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
 云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/36/index.m3u8
+云南都市,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv2/1.m3u8;{User-Agent@0151?zyund}
+云南生活,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/SD-1200k-720P-yntv4/1.m3u8;{User-Agent@0151?zyund}
+云南生活,http://tvindexlive02.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080P-yunnan4/1.m3u8;{User-Agent@0151?zyund}
+云南影视,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/SD-1200k-720P-yntv5/1.m3u8;{User-Agent@0151?zyund}
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/37/index.m3u8
 云南娱乐,https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南娱乐,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/40/index.m3u8
+云南娱乐,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv3/1.m3u8;{User-Agent@0151?zyund}
 云南生活,https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南生活,https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
 云南公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/38/index.m3u8
+云南公共,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv6/1.m3u8;{User-Agent@0151?zyund}
 丽江新闻综合,https://hwapi.yunshicloud.com/6jx775/d4618f.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 丽江公共,https://hwapi.yunshicloud.com/mj1170/06qk26.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
@@ -925,8 +933,13 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+黑龙江影视,http://39.134.65.145/PLTV/88888888/224/3221225971/1.m3u8?zheild
+黑龙江影视,http://39.134.65.151/PLTV/88888888/224/3221225971/1.m3u8?zheild
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+黑龙江都市,http://39.134.65.145/PLTV/88888888/224/3221225990/1.m3u8?zheild
+黑龙江都市,http://39.134.65.151/PLTV/88888888/224/3221225990/1.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+哈尔滨新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225684/1.m3u8?zheild
 
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 吉林都市,http://stream1.jlntv.cn/dspd/playlist.m3u8
