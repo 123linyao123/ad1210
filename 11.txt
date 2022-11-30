@@ -49,3 +49,4 @@
      "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9kYTEzNTc2L2FkL21haW4vdHYudHh0"]}]}],
     "spider": "https://ghproxy.com/?q=https://raw.githubusercontent.com/da13576/ad/main/jar/77.jar",
     "wallpaper": "https://tool.weetai.cn/api"
+}
