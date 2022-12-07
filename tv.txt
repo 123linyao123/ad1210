@@ -728,6 +728,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://117.148.129.68/PLTV/88888888/224/3221231618/index.m3u8#http://117.148.129.5/PLTV/88888888/224/3221231618/index.m3u8
 
+东方影视,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/dsjpdhd/1300000/mnf.m3u8
 东方影视,http://www.happyspace.party:4022/udp/239.45.3.237:5140
 东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 东方影视,http://223.111.195.50/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
