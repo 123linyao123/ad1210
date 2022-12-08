@@ -1064,24 +1064,15 @@ IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 虎牙放映厅,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs 
 虎牙欧美大片,http://txtest-xp2p.p2p.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.xs 
 
-CHC动作电影,http://111.20.33.79/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,http://171.108.239.16:8181/tsfile/live/1003_1.m3u8
-CHC动作电影,http://111.20.33.75/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.40.160/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.85:5140
 CHC动作电影,http://fengyeos.f3322.org:8010/udp/239.33.2.207:22070
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://125.76.177.224:8888/udp/239.112.205.207:5140
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://1.83.127.227:4000/udp/239.112.205.207:5140
 CHC动作电影,http://wh.re168.com:8089/udp/239.69.1.242:11094
 CHC动作电影,http://www.xingyang.net.cn:4000/udp/225.1.4.208:1261
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.245.243:1234
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.212:6108
 CHC动作电影,http://z2y7668013.qicp.vip:8888/udp/239.253.242.153:8000
 CHC动作电影,http://www.xuweihome.vip:2222/udp/239.253.248.153:8000
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.233.167.39:4000/udp/239.253.238.153:8000
 CHC动作电影,http://lcx-olt.8866.org:8181/tsfile/live/1012_1.m3u8
-CHC动作电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://223.100.63.144:880/dx100.m3u8
 
 
 CHC高清电影,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1091,17 +1082,11 @@ CHC高清电影,http://111.20.33.75/TVOD/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://111.20.40.160/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.83:5140
 CHC高清电影,http://fengyeos.f3322.org:8010/udp/239.33.2.209:22090
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://125.76.177.224:8888/udp/239.112.205.206:5140
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://1.83.127.227:4000/udp/239.112.205.206:5140
 CHC高清电影,http://wh.re168.com:8089/udp/239.69.1.241:11088
 CHC高清电影,http://www.xingyang.net.cn:4000/udp/225.1.4.207:1260
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.245.242:1234
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.233:6108
 CHC高清电影,http://z2y7668013.qicp.vip:8888/udp/239.253.242.154:8000
 CHC高清电影,http://www.xuweihome.vip:2222/udp/239.253.248.154:8000
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.233.167.39:4000/udp/239.253.238.154:8000
 CHC高清电影,http://lcx-olt.8866.org:8181/tsfile/live/1013_1.m3u8
-CHC高清电影,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://223.100.63.144:880/dx101.m3u8
 
 
 CHC家庭影院,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -1111,16 +1096,10 @@ CHC家庭影院,http://111.20.33.75/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://111.20.40.160/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://yuwentao114.f3322.net:4022/udp/239.252.219.84:5140
 CHC家庭影院,http://fengyeos.f3322.org:8010/udp/239.33.2.210:22100
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://125.76.177.224:8888/udp/239.112.205.205:5140
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://1.83.127.227:4000/udp/239.112.205.205:5140
 CHC家庭影院,http://wh.re168.com:8089/udp/239.69.1.243:11100
 CHC家庭影院,http://www.xingyang.net.cn:4000/udp/225.1.4.209:1262
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.245.241:1234
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.211:6108
 CHC家庭影院,http://z2y7668013.qicp.vip:8888/udp/239.253.242.152:8000#http://www.xuweihome.vip:2222/udp/239.253.248.152:8000
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.233.167.39:4000/udp/239.253.238.152:8000
 CHC家庭影院,http://lcx-olt.8866.org:8181/tsfile/live/1011_1.m3u8
-CHC家庭影院,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://223.100.63.144:880/dx93.m3u8
 
 超清影院,http://home.111818.xyz:8888/udp/239.76.252.35:9000#http://ekucn.3322.org:8888/udp/239.76.252.35:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.35:9000
 高清影院,http://home.111818.xyz:8888/udp/239.76.252.217:9000#http://ekucn.3322.org:8888/udp/239.76.252.217:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.217:9000
