@@ -709,8 +709,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 山东齐鲁,http://z2y7668013.qicp.vip:8888/udp/239.253.242.18:8000
 山东齐鲁,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://222.173.134.150:8888/tsfile/live/1001_1.m3u8
 
-济宁综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
-济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+//济宁综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+//济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁教育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
 济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 济宁公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
@@ -858,46 +858,17 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 北京新闻,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://123.116.139.163:8888/udp/239.3.1.159:8000
 
 天津新闻,http://home.bh3bbb.com:40000/udp/225.1.1.130:5002
-天津新闻,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.130:5002
-天津新闻,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.130:5002
 天津文艺,http://home.bh3bbb.com:40000/udp/225.1.1.131:5002
-天津文艺,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.131:5002
-天津文艺,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.131:5002
 天津影视,http://home.bh3bbb.com:40000/udp/225.1.1.149:5002
-天津影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.149:5002
-天津影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.149:5002
 天津都市,http://home.bh3bbb.com:40000/udp/225.1.1.128:5002
-天津都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.128:5002
-天津都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.128:5002
 天津体育,http://home.bh3bbb.com:40000/udp/225.1.1.122:5002
-天津体育,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.122:5002
-天津体育,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.122:5002
 天津科教,http://home.bh3bbb.com:40000/udp/225.1.1.129:5002
-天津科教,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.162.206.23:8686/udp/225.1.1.129:5002
-天津科教,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://111.167.37.17:5002/udp/225.1.1.129:5002
 
 云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
-
-
 云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
-云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/36/index.m3u8
-云南都市,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv2/1.m3u8;{User-Agent@0151?zyund}
-云南生活,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/SD-1200k-720P-yntv4/1.m3u8;{User-Agent@0151?zyund}
-云南生活,http://tvindexlive02.yn.ysten.com:8080/ysten-business/live/HD-3600k-1080P-yunnan4/1.m3u8;{User-Agent@0151?zyund}
-云南影视,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/SD-1200k-720P-yntv5/1.m3u8;{User-Agent@0151?zyund}
-云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/37/index.m3u8
 云南娱乐,https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南娱乐,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/40/index.m3u8
-云南娱乐,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv3/1.m3u8;{User-Agent@0151?zyund}
 云南生活,https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南生活,https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
-云南公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://112.114.137.160:888/hls/38/index.m3u8
-云南公共,http://tvindexlive01.yn.ysten.com:8080/ysten-business/live/yntv6/1.m3u8;{User-Agent@0151?zyund}
 丽江新闻综合,https://hwapi.yunshicloud.com/6jx775/d4618f.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 丽江公共,https://hwapi.yunshicloud.com/mj1170/06qk26.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
