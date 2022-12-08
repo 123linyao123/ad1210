@@ -1101,8 +1101,8 @@ CHC家庭影院,http://www.xingyang.net.cn:4000/udp/225.1.4.209:1262
 CHC家庭影院,http://z2y7668013.qicp.vip:8888/udp/239.253.242.152:8000#http://www.xuweihome.vip:2222/udp/239.253.248.152:8000
 CHC家庭影院,http://lcx-olt.8866.org:8181/tsfile/live/1011_1.m3u8
 
-超清影院,http://home.111818.xyz:8888/udp/239.76.252.35:9000#http://ekucn.3322.org:8888/udp/239.76.252.35:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.35:9000
-高清影院,http://home.111818.xyz:8888/udp/239.76.252.217:9000#http://ekucn.3322.org:8888/udp/239.76.252.217:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.217:9000
+IPTV4k,http://home.111818.xyz:8888/udp/239.76.252.35:9000#http://ekucn.3322.org:8888/udp/239.76.252.35:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.35:9000
+高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000#http://ekucn.3322.org:8888/udp/239.76.252.217:9000#http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://175.0.38.128:8888/udp/239.76.252.217:9000
 
 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
