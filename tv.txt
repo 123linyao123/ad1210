@@ -754,28 +754,19 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-娄底综合,http://mms.ldntv.cn:1935/live/zonghe/chunklist_w277614368.m3u8
-娄底综合,http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 娄底综合,http://119.39.242.52:1935/live/zonghe/playlist.m3u8
 娄底综合,http://119.39.242.52:1935/live/zonghe/chunklist_w1680005588.m3u8
-娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/playlist.m3u8
-娄底综合,http://mms.ldntv.cn:1935/live/_definst_/zonghe/chunklist_w2136014950.m3u8
 
-湖北影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.205:6108
 湖北影视,http://ned2188.eicp.net:8888/udp/239.69.1.204:10866
 湖北影视,http://hzzzz530.com:4022/udp/239.69.1.204:10866
-湖北生活,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.204:6108
 湖北生活,http://ned2188.eicp.net:8888/udp/239.69.1.205:10872
 湖北生活,http://hzzzz530.com:4022/udp/239.69.1.205:10872
-湖北综合,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.126:6108
 湖北综合,http://ned2188.eicp.net:8888/udp/239.69.1.42:9892
 湖北综合,http://hzzzz530.com:4022/udp/239.69.1.42:9892
-湖北公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.124:6108
 湖北公共,http://ned2188.eicp.net:8888/udp/239.69.1.40:9880
 湖北公共,http://hzzzz530.com:4022/udp/239.69.1.40:9880
-湖北经视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.56.94.140:8889/udp/228.0.0.125:6108
-湖北经视http://ned2188.eicp.net:8888/udp/239.69.1.41:9886
-湖北经视http://hzzzz530.com:4022/udp/239.69.1.41:9886
+湖北经视,http://ned2188.eicp.net:8888/udp/239.69.1.41:9886
+湖北经视,http://hzzzz530.com:4022/udp/239.69.1.41:9886
 武汉电视剧,http://113.57.109.37:9901/tsfile/live/1019_1.m3u8
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
@@ -789,10 +780,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
-舟山新闻,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
-自山公共http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+自山公共,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 
 北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy 
 北京文艺,http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000
@@ -858,13 +848,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
-黑龙江影视,http://39.134.65.145/PLTV/88888888/224/3221225971/1.m3u8?zheild
-黑龙江影视,http://39.134.65.151/PLTV/88888888/224/3221225971/1.m3u8?zheild
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
-黑龙江都市,http://39.134.65.145/PLTV/88888888/224/3221225990/1.m3u8?zheild
-黑龙江都市,http://39.134.65.151/PLTV/88888888/224/3221225990/1.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225684/1.m3u8?zheild
 
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 吉林都市,http://stream1.jlntv.cn/dspd/playlist.m3u8
