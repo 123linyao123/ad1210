@@ -1115,19 +1115,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 七星关电视台,https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
 
-安徽影视,http://note.oksvc.com:8888/udp/238.1.79.42:4448
-安徽影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://183.167.244.119:4000/udp/238.1.79.42:4448
-安徽影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://220.178.185.155:4000/udp/238.1.79.42:4448
-安徽科教,http://note.oksvc.com:8888/udp/238.1.79.40:4432
-安徽科教,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://183.167.244.119:4000/udp/238.1.79.40:4432
-安徽科教,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://220.178.185.155:4000/udp/238.1.79.40:4432
-安徽生活,http://note.oksvc.com:8888/udp/238.1.79.44:4464
-安徽生活,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://183.167.244.119:4000/udp/238.1.79.44:4464
-安徽生活,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://220.178.185.155:4000/udp/238.1.79.44:4464
-
-甘肃影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://60.164.228.173:4040/udp/239.255.30.250:8231
-甘肃都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://60.164.228.173:4040/udp/239.255.30.252:8231
-甘肃经济,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://60.164.228.173:4040/udp/239.255.30.253:8231
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
 
