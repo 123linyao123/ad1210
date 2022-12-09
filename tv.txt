@@ -298,7 +298,8 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 📡 | 卫视台,#genre#
 湖南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000032695&livemode=1&stbId=2&channel-id=ystenlive
 湖南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000009115&livemode=1&stbId=2&channel-id=ystenlive
-湖南卫视,http://58.58.111.222:808/hls/18/index.m3u8#http://117.148.129.5/PLTV/88888888/224/3221231729/index.m3u8#http://111.12.110.95:6610/PLTV/77777
+湖南卫视,http://58.58.111.222:808/hls/18/index.m3u8
+湖南卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
@@ -307,8 +308,9 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 江苏卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000001828&livemode=1&stbId=2&channel-id=ystenlive
 江苏卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000004684&livemode=1&stbId=2&channel-id=ystenlive
-江苏卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil
+江苏卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1
 
+东方卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
 东方卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive
 东方卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000030202&livemode=1&stbId=2&channel-id=ystenlive
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
@@ -317,7 +319,7 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 北京卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
-北京卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil
+北京卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
 
 大湾区卫视,http://www.kitcc.cn:8888/udp/239.77.0.215:5146
 大湾区卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
@@ -327,11 +329,11 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 广东卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000014176&livemode=1&stbId=2&channel-id=ystenlive
 广东卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000028357&livemode=1&stbId=2&channel-id=ystenlive
 广东卫视,http://125.210.152.19:9090/live/hzgq-gdwsgq-h264.m3u8
-广东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
+广东卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1
 
 深圳卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive
 深圳卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000009227&livemode=1&stbId=2&channel-id=ystenlive
-深圳卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil
+深圳卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$高清720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$高清720P
@@ -342,79 +344,79 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000000831&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
-天津卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
+天津卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1
 
 山东卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
 山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
-山东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil
+山东卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1
 
 湖北卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000024621&livemode=1&stbId=2&channel-id=ystenlive
 湖北卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive
-湖北卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226514/10000100000000060000000000356892_0.smil
+湖北卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1
 
 四川卫视,http://222.175.159.226:808/hls/59/index.m3u8$超清1080P
 四川卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8$超清1080P
 四川卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
 
 重庆卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000018937&livemode=1&stbId=2&channel-id=ystenlive
-重庆卫视,
-重庆卫视,
+重庆卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240012_1/playlist.m3u8?CONTENTID=00000110240012_1
+重庆卫视
 
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000030159&livemode=1&stbId=2&channel-id=ystenlive
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000020780&livemode=1&stbId=2&channel-id=ystenlive
-安徽卫视,
+安徽卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1
 
 黑龙江卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000001925&livemode=1&stbId=2&channel-id=ystenlive
 黑龙江卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000009082&livemode=1&stbId=2&channel-id=ystenlive
-黑龙江卫视,
-黑龙江卫视,
+黑龙江卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
+黑龙江卫视
 
 
 辽宁卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000024033&livemode=1&stbId=2&channel-id=ystenlive
-辽宁卫视,
-辽宁卫视,
+辽宁卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1
+辽宁卫视
 
 
 江西卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000013731&livemode=1&stbId=2&channel-id=ystenlive
-江西卫视,
-江西卫视,
+江西卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240049_1/playlist.m3u8?CONTENTID=00000110240049_1
+江西卫视
 
 
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-广西卫视,
+广西卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240037_1/playlist.m3u8?CONTENTID=00000110240037_1
 
 山西卫视,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
 山西卫视,http://222.175.159.226:808/hls/64/index.m3u8$标清576P
-山西卫视,
+山西卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240065_1/playlist.m3u8?CONTENTID=00000110240065_1
 
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-陕西卫视,
-陕西卫视,
+陕西卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240066_1/playlist.m3u8?CONTENTID=00000110240066_1
+陕西卫视
 
 海南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
-海南卫视,
-海南卫视,
+海南卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240059_1/playlist.m3u8?CONTENTID=00000110240059_1
+海南卫视
 
 云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南卫视,http://222.175.159.226:808/hls/60/index.m3u8
-云南卫视,
+云南卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240082_1/playlist.m3u8?CONTENTID=00000110240082_1
 
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-吉林卫视,
-吉林卫视,
+吉林卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240046_1/playlist.m3u8?CONTENTID=00000110240046_1
+吉林卫视
 
 
-河北卫视,
-河北卫视,
-河北卫视,
+河北卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
+河北卫视
+河北卫视
 
 宁夏卫视,http://222.175.159.226:808/hls/67/index.m3u8
-宁夏卫视,
-宁夏卫视,
+宁夏卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240061_1/playlist.m3u8?CONTENTID=00000110240061_1
+宁夏卫视
 
 甘肃卫视,http://222.175.159.226:808/hls/69/index.m3u8
-甘肃卫视,
-甘肃卫视,
+甘肃卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240034_1/playlist.m3u8?CONTENTID=00000110240034_1
+甘肃卫视
 
 新疆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8$标清576P
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8$标清576P
@@ -422,38 +424,38 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 东南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000009263&livemode=1&stbId=2&channel-id=ystenlive
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-东南卫视
+东南卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1
 
-厦门卫视
+厦门卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240159_1/playlist.m3u8?CONTENTID=00000110240159_1
 厦门卫视
 厦门卫视
 
-贵州卫视,
-贵州卫视,
-贵州卫视,
+贵州卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1
+贵州卫视
+贵州卫视
 
 兵团卫视
 兵团卫视
 兵团卫视
-兵团卫视,http://222.175.159.226:808/hls/76/index.m3u8$标清576P
+兵团卫视,http://222.175.159.226:808/hls/76/index.m3u8
 
 内蒙古卫视
 内蒙古卫视
-内蒙古卫视,
+内蒙古卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240060_1/playlist.m3u8?CONTENTID=00000110240060_1
 
 
-青海卫视,
-青海卫视,
-青海卫视,
-青海卫视,
+青海卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240063_1/playlist.m3u8?CONTENTID=00000110240063_1
+青海卫视
+青海卫视
+青海卫视
 
-西藏卫视,
-西藏卫视,
-西藏卫视,
+西藏卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240076_1/playlist.m3u8?CONTENTID=00000110240076_1
+西藏卫视
+西藏卫视
 
-河南卫视
+河南卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240041_1/playlist.m3u8?CONTENTID=00000110240041_1
 
-三沙卫视
+三沙卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240589_1/playlist.m3u8?CONTENTID=00000110240589_1
 
 📺｜地方台,#genre#
 
