@@ -130,19 +130,9 @@ Boo驚悚台,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6
 
 🏀｜体育台,#genre#
 
-广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
-广东体育,http://xjayrf.tv888.top:9901/tsfile/live/1014_1.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
-广东体育,http://mzwh4455.qicp.vip:280/hls/体育26/index.m3u8
 广东体育,http://www.kitcc.cn:8888/udp/239.77.0.112:5146
 广东体育,http://nsszds.f3322.net:808/hls/1/index.m3u8
-广东体育,http://jyjxy.7766.org:808/hls/18/index.m3u8
-广东体育,http://iptv.tv888.top:9901/tsfile/live/1004_1.m3u8
-广东体育,http://120.237.252.67:8800/hls/5/index.m3u8
-广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-广东体育,http://27.47.68.158:808/hls/18/index.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
 
 CCTV5,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8 
