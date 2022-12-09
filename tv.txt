@@ -353,132 +353,103 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 湖北卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226514/10000100000000060000000000356892_0.smil
 
 四川卫视,http://222.175.159.226:808/hls/59/index.m3u8$超清1080P
-四川卫视,http://39.134.67.110/PLTV/88888888/224/3221225970/index.m3u8$超清1080P
 四川卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8$超清1080P
-四川卫视,http://112.17.40.220/PLTV/88888888/224/3221231885/index.m3u8$超清1080P
-四川卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 四川卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
 
 重庆卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000018937&livemode=1&stbId=2&channel-id=ystenlive
-重庆卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-重庆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
+重庆卫视,
+重庆卫视,
 
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000030159&livemode=1&stbId=2&channel-id=ystenlive
 安徽卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000020780&livemode=1&stbId=2&channel-id=ystenlive
-安徽卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil
+安徽卫视,
 
 黑龙江卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000001925&livemode=1&stbId=2&channel-id=ystenlive
-黑龙江卫视,http://39.135.34.144:8080/000000001000/1000000001000009082/index.m3u8?test/PLTV/=02
 黑龙江卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000009082&livemode=1&stbId=2&channel-id=ystenlive
-黑龙江卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226465/10000100000000060000000000133826_0.smil
+黑龙江卫视,
+黑龙江卫视,
 
 
 辽宁卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000024033&livemode=1&stbId=2&channel-id=ystenlive
-辽宁卫视,http://125.210.152.19:9090/live/hzgq-lnwsgq-h264.m3u8
-辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil
+辽宁卫视,
+辽宁卫视,
 
 
 江西卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000001000013731&livemode=1&stbId=2&channel-id=ystenlive
-江西卫视,http://222.175.159.226:808/hls/56/index.m3u8$超清1080P
-江西卫视,http://125.210.152.19:9090/live/hzgq-jxwsgq-h264.m3u8
+江西卫视,
+江西卫视,
 
 
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-广西卫视,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+广西卫视,
 
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
-山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
 山西卫视,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
 山西卫视,http://222.175.159.226:808/hls/64/index.m3u8$标清576P
-山西卫视,rtsp://221.203.83.34:554/PLTV/460033/224/0/3221226042/3221225917.smil
+山西卫视,
 
 陕西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-陕西卫视,http://111.20.33.70/TVOD/88888893/224/3221226388/index.m3u8
-陕西卫视,http://111.40.196.34/PLTV/88888888/224/3221225582/index.m3u8$标清576P
-陕西卫视,http://125.210.152.20:9120/live/hszx-shanxitv-h264.m3u8
-陕西卫视,http://125.210.152.20:9120/live/hszx-sxtv-h264.m3u8
-陕西卫视,http://125.210.152.19:9090/live/hszx-shanxitv-h264.m3u8
-陕西卫视,http://125.210.152.19:9090/live/hszx-sxtv-h264.m3u8
+陕西卫视,
+陕西卫视,
 
 海南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
-海南卫视,http://111.40.196.35/PLTV/88888888/224/3221225623/index.m3u8
-海南卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-海南卫视,http://125.210.152.20:9120/live/hszx-lytv-h264.m3u8
-海南卫视,http://125.210.152.19:9090/live/hszx-lytv-h264.m3u8
-海南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226693/10000100000000060000000006385285_0.smil
+海南卫视,
+海南卫视,
 
 云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
 云南卫视,http://222.175.159.226:808/hls/60/index.m3u8
-云南卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-云南卫视,http://111.20.33.93/TVOD/88888888/224/3221225751/index.m3u8
-云南卫视,http://125.210.152.20:9120/live/hzgq-ynwsgq-h264.m3u8
-云南卫视,http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
+云南卫视,
 
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
-吉林卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-吉林卫视,http://125.210.152.20:9120/live/hzgq-jlwsgq-h264.m3u8
-吉林卫视,http://125.210.152.19:9090/live/hzgq-jlwsgq-h264.m3u8
-吉林卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil
+吉林卫视,
+吉林卫视,
 
 
-河北卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-河北卫视,http://125.210.152.20:9120/live/hzgq-hbwsgq1-h264.m3u8
-河北卫视,http://125.210.152.19:9090/live/hzgq-hbwsgq1-h264.m3u8
+河北卫视,
+河北卫视,
+河北卫视,
 
-宁夏卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-宁夏卫视,http://111.20.33.93/TVOD/88888888/224/3221225748/index.m3u8
-宁夏卫视,http://125.210.152.20:9120/live/hszx-nxtv-h264.m3u8
-宁夏卫视,http://125.210.152.19:9090/live/hszx-nxtv-h264.m3u8
-宁夏卫视,http://222.175.159.226:808/hls/67/index.m3u8$标清576P
+宁夏卫视,http://222.175.159.226:808/hls/67/index.m3u8
+宁夏卫视,
+宁夏卫视,
 
-甘肃卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-甘肃卫视,http://111.20.33.93/TVOD/88888888/224/3221225754/index.m3u8
-甘肃卫视,http://125.210.152.20:9120/live/hszx-gstv-h264.m3u8
-甘肃卫视,http://125.210.152.19:9090/live/hszx-gstv-h264.m3u8
-甘肃卫视,http://111.40.196.28/PLTV/88888888/224/3221225639/index.m3u8$标清720P
-甘肃卫视,http://222.175.159.226:808/hls/69/index.m3u8$标清576P
+甘肃卫视,http://222.175.159.226:808/hls/69/index.m3u8
+甘肃卫视,
+甘肃卫视,
 
-
-新疆卫视,http://111.20.33.93/TVOD/88888888/224/3221225747/index.m3u8
 新疆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8$标清576P
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8$标清576P
 新疆卫视,http://222.175.159.226:808/hls/68/index.m3u8$标清576P
-新疆卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-新疆卫视,http://125.210.152.20:9120/live/hszx-xjtv-h264.m3u8
-新疆卫视,http://125.210.152.19:9090/live/hszx-xjtv-h264.m3u8
 
 东南卫视,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=1000000002000009263&livemode=1&stbId=2&channel-id=ystenlive
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-东南卫视,http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8
+东南卫视
 
-厦门卫视,http://111.40.196.32/PLTV/88888888/224/3221225643/index.m3u8
-厦门卫视,http://111.40.196.34/PLTV/88888888/224/3221225643/index.m3u8$标清540P
-厦门卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-厦门卫视,http://111.20.33.93/PLTV/88888893/224/3221226219/index.m3u8
+厦门卫视
+厦门卫视
+厦门卫视
 
-贵州卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-贵州卫视,http://125.210.152.19:9090/live/hszx-gztv-h264.m3u8
-贵州卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226746/10000100000000060000000006519582_0.smil
+贵州卫视,
+贵州卫视,
+贵州卫视,
 
-兵团卫视,http://125.210.152.20:9120/live/hszx-bttv-h264.m3u8
-兵团卫视,http://125.210.152.19:9090/live/hszx-bttv-h264.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8$超清1080P
+兵团卫视
+兵团卫视
+兵团卫视
 兵团卫视,http://222.175.159.226:808/hls/76/index.m3u8$标清576P
 
-内蒙古卫视,http://111.20.33.93/TVOD/88888888/224/3221225786/index.m3u8
-内蒙古卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-内蒙古卫视,http://125.210.152.20:9120/live/hszx-nmgtv-h264.m3u8
-内蒙古卫视,http://125.210.152.19:9090/live/hszx-nmgtv-h264.m3u8
+内蒙古卫视
+内蒙古卫视
+内蒙古卫视,
 
-青海卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-青海卫视,http://111.20.33.93/TVOD/88888888/224/3221225794/index.m3u8
-青海卫视,http://125.210.152.20:9120/live/hszx-qhtv-h264.m3u8
-青海卫视,http://125.210.152.19:9090/live/hszx-qhtv-h264.m3u8
 
-西藏卫视,http://111.12.110.35:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-西藏卫视,http://125.210.152.20:9120/live/hszx-xztv-h264.m3u8
-西藏卫视,http://125.210.152.19:9090/live/hszx-xztv-h264.m3u8
+青海卫视,
+青海卫视,
+青海卫视,
+青海卫视,
+
+西藏卫视,
+西藏卫视,
+西藏卫视,
 
 河南卫视
 
