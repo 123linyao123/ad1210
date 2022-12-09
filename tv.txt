@@ -522,7 +522,10 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 湖北公共,http://hzzzz530.com:4022/udp/239.69.1.40:9880
 湖北经视,http://ned2188.eicp.net:8888/udp/239.69.1.41:9886
 湖北经视,http://hzzzz530.com:4022/udp/239.69.1.41:9886
-武汉电视剧,http://113.57.109.37:9901/tsfile/live/1019_1.m3u8
+
+武汉综合,http://wh.re168.com:8089/udp/239.69.1.145:10506
+
+武汉电视剧,http://wh.re168.com:8089/udp/239.69.1.146:10512
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
