@@ -153,81 +153,42 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 
 🐼｜广东台,#genre#
-
-
 广东珠江,http://www.kitcc.cn:8888/udp/239.77.0.1:5146
 广东珠江,http://www.superkit.cn:8888/udp/239.77.0.1:5146
-广东珠江,http://xjayrf.tv888.top:9901/tsfile/live/1011_1.m3u8
-广东珠江,http://mzwh4455.qicp.vip:280/hls/24/index.m3u8
-广东珠江,http://live.44ol.com/v/gdzj.m3u8
-广东珠江,http://111.12.110.35:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-广东珠江,http://113.119.161.118:8081/hls/50/index.m3u8
-广东珠江,http://113.101.124.246:808/hls/17/index.m3u8
-广东珠江,http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
 广东珠江,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 
 广东经济科教,http://www.kitcc.cn:8888/udp/239.77.0.85:5146
 广东经济科教,http://diygz.f3322.org:9090/hls/71/index.m3u8
-广东经济科教,http://113.64.147.18:808/hls/66/index.m3u8
-广东经济科教,http://183.63.15.42:9901/tsfile/live/1006_1.m3u8
 广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
-广东经济科教,http://113.101.124.246:808/hls/22/index.m3u8
 广东经济科教,http://nsszds.f3322.net:808/hls/66/index.m3u8
 
 广东新闻,http://www.superkit.cn:8888/udp/239.77.0.173:5146
 广东新闻,http://www.kitcc.cn:8888/udp/239.77.0.173:5146
-广东新闻,http://fangsong.live/hls/itouchtv.php?id=gdxw&
-广东新闻,http://mmitv.top/pltv/itouchtv.php?id=gdxw&
-广东新闻,http://120.236.17.36:808/hls/250/index.m3u8
-广东新闻,http://mzwh4455.qicp.vip:280/hls/25/index.m3u8
 广东新闻,http://9.zhxinda.xyz/gdtv.php?pk=1186
 广东新闻,http://113.101.124.246:808/hls/20/index.m3u8
-广东新闻,http://183.63.15.42:9901/tsfile/live/1004_1.m3u8
 
 广东影视,http://mmitv.top/pltv/itouchtv.php?id=gdys&
-广东影视,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8
 广东影视,http://fangsong.live/hls/itouchtv.php?id=gdys&$
 广东影视,http://113.101.124.246:808/hls/25/index.m3u8
 广东影视,http://183.63.15.42:9901/tsfile/live/1007_1.m3u8
-广东影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.66.125.73:8888/udp/239.77.0.217:5146
-广东影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://58.61.148.28:8088/udp/239.77.0.217:5146
-广东影视,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://218.19.245.186:85/udp/239.77.0.217:5146
-
 
 广东公共,http://www.kitcc.cn:8888/udp/239.77.0.225:5146
 广东公共,http://www.superkit.cn:8888/udp/239.77.0.225:5146
 广东公共,http://120.236.17.36:808/hls/251/index.m3u8
 
-广州综合,http://fangsong.live/hls/gsw.php?id=zhonghe
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 广州综合,http://app.nettv.vip/hls/guangzhou.php?id=zhonghe#http://www.nettvpro.live/hls/guangzhou.php?id=zhonghe
 广州综合,http://9.zhxinda.xyz/gz.php?id=zhonghe
 广州综合,http://120.236.17.36:808/hls/38/index.m3u8
-广州综合,http://120.236.17.34:808/hls/38/index.m3u8
 广州综合,http://www.kitcc.cn:8888/udp/239.253.43.71:5146
-广州综合,http://mmitv.top/pltv/gztv.php?id=gzzh
 广州综合,http://live.cooltv.top/tv/guangzhou.php?id=gzzh
-广州综合,http://112.74.200.9:88/tv000000/m3u8.php?/GZTV/zhonghe
-广州综合,http://www.xdzb.top:889/m3u8.php/GZTV/zhonghe
-广州综合,http://103.213.250.168:889/m3u8.php/GZTV/zhonghe
-广州综合,http://ye23.win/iptv/gztv.php?id=zhonghe
 
-广州新闻,http://120.236.17.36:808/hls/39/index.m3u8
-广州新闻,http://120.236.17.34:808/hls/39/index.m3u8
 广州新闻,http://www.kitcc.cn:8888/udp/239.253.43.72:5146
-广州新闻,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://219.128.40.115:8888/rtp/239.253.43.72:5146
-广州新闻,http://py.fatcat.icu:8880/hls/116/index.m3u8
 广州新闻,http://9.zhxinda.xyz/gz.php?id=xinwen
-广州新闻,http://mmitv.top/pltv/gztv.php?id=gzxw
 广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 广州新闻,http://www.xdzb.top:889/m3u8.php/GZTV/xinwen
 广州新闻,http://fangsong.live/hls/gsw.php?id=xinwen
-广州新闻,http://lee.szxinlianyun.com:88/tv000000/m3u8.php?/GZTV/xinwen
-广州新闻,http://iptv.szxinlianyun.com:88/tv000000/m3u8.php?/GZTV/xinwen
-广州新闻,http://xips.szxinlianyun.com:88/tv000000/m3u8.php?/GZTV/xinwen
-广州新闻,http://112.74.200.9:88/tv000000/m3u8.php?/GZTV/xinwen
-广州新闻,http://ye23.win/iptv/gztv.php?id=xinwen
 广州新闻,http://live.cooltv.top/tv/guangzhou.php?id=gzxw
 广州新闻,http://app.nettv.vip/hls/guangzhou.php?id=xinwen
 广州新闻,http://www.nettvpro.live/hls/guangzhou.php?id=xinwen
@@ -236,9 +197,6 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi
-
-广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds&$1920x1080
-广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo&$1920x1080
 
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 深圳国际,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
