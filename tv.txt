@@ -212,87 +212,57 @@ Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 深圳电视剧,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
 深圳电视剧,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
 深圳电视剧,http://157.122.177.10:9901/tsfile/live/1005_1.m3u8
-深圳电视剧,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.66.125.73:8888/udp/239.77.1.125:5146
-深圳电视剧,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://58.61.148.28:8088/udp/239.77.1.125:5146
-深圳电视剧,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://218.19.245.186:85/udp/239.77.1.125:5146
 
-深圳都市,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
-深圳都市,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
-深圳都市,http://mzwh4455.qicp.vip:280/hls/87/index.m3u8
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
-深圳都市,http://120.236.17.34:808/hls/19/index.m3u8
-深圳都市,http://120.236.17.36:808/hls/19/index.m3u8
-深圳都市,http://py.fatcat.icu:8880/hls/123/index.m3u8
 深圳都市,http://nsszds.f3322.net:808/hls/68/index.m3u8
-深圳都市,http://mmitv.top/pltv/itouchtv.php?id=&pk=1207
-深圳都市,http://stream.guihet.com/t/sztv.php?id=2
-深圳都市,http://fangsong.live/hls/ysz.php?id=szds
-深圳都市,http://ye23.win/iptv/sztv.php?id=2
 深圳都市,http://157.122.177.10:9901/tsfile/live/1004_1.m3u8
-深圳都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.66.125.73:8888/udp/239.77.1.124:5146
-深圳都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://58.61.148.28:8088/udp/239.77.1.124:5146
-深圳都市,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://218.19.245.186:85/udp/239.77.1.124:5146
 
 深圳公共,http://www.kitcc.cn:8888/udp/239.77.1.178:5146
 深圳公共,http://shazui.8866.org:800/hls/30/index.m3u8
 深圳公共,http://mmitv.top/pltv/itouchtv.php?id=&pk=1213
-深圳公共,http://stream.guihet.com/t/sztv.php?id=4
-深圳公共,http://ye23.win/iptv/sztv.php?id=4
-深圳公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://113.66.125.73:8888/udp/239.77.1.126:5146
-深圳公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://58.61.148.28:8088/udp/239.77.1.126:5146
-深圳公共,http://zb.688768.xyz/zubo/z.php?member=35vlfdvuytkldmknuvfdd&playurl=http://218.19.245.186:85/udp/239.77.1.126:5146
-
 
 深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
 
 佛山公共,http://www.kitcc.cn:8888/udp/239.253.43.53:5146
-佛山公共,http://udpxy.hblianong.com:4022/udp/239.253.43.53:5146
-佛山公共,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
-佛山公共,http://121.51.42.151/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
-佛山公共,http://121.51.249.88/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
-佛山公共,http://www.nettvpro.live/hls/foshan.php?id=fsgg
 
 佛山综合,http://www.kitcc.cn:8888/udp/239.253.43.57:5146
-佛山综合,http://udpxy.hblianong.com:4022/udp/239.253.43.57:5146
 佛山综合,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
-佛山综合,http://121.51.42.151/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 佛山综合,http://121.51.248.205/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
-佛山综合,http://www.nettvpro.live/hls/foshan.php?id=fszh
 佛山综合,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 佛山综合,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 
+佛山影视,http://www.kitcc.cn:8888/udp/239.253.43.56:5146
 佛山影视,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
 佛山影视,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
-佛山影视,http://www.kitcc.cn:8888/udp/239.253.43.56:5146
 佛山影视,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
 佛山影视,http://121.51.248.205/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
 
+顺德,http://www.kitcc.cn:8888/udp/239.253.43.55:5146
 顺德,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 顺德,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
-顺德,http://www.kitcc.cn:8888/udp/239.253.43.55:5146
 顺德,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 顺德,http://121.51.249.88/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 顺德,http://121.51.248.205/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 顺德,http://121.51.42.151/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 顺德,http://www.nettvpro.live/hls/foshan.php?id=fssd
 
+南海,http://www.kitcc.cn:8888/udp/239.253.43.54:5146
 南海,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
 南海,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
-南海,http://www.kitcc.cn:8888/udp/239.253.43.54:5146
 南海,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
 南海,http://121.51.248.205/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
 南海,http://121.51.42.151/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
 
 东莞综合,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=4
 东莞综合,http://www.kitcc.cn:8888/udp/239.253.43.104:5146
-东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1_1500#http://fangsong.live/hls/dgtv.php?id=4
-东莞综合,#http://udpxy.hblianong.com:4022/udp/239.253.43.104:5146
+东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1_1500
+东莞综合,http://udpxy.hblianong.com:4022/udp/239.253.43.104:5146
 东莞综合,http://diygz.f3322.org:9090/hls/101/index.m3u8
 东莞综合,http://183.54.245.83:9090/hls/101/index.m3u8
 东莞综合,http://mmitv.top/pltv/itouchtv.php?id=gdxwzh&pk=2395
 东莞综合,http://www.nettvpro.live/hls/itouch.php?id=2395
+
 东莞生活,http://www.kitcc.cn:8888/udp/239.253.43.105:5146
-东莞生活,http://udpxy.hblianong.com:4022/udp/239.253.43.105:5146
 东莞生活,http://fangsong.live/hls/dgtv.php?id=5
 东莞生活,rtmp://stream.sun0769.com/dgrtv1/mp4:tv2_1500
 东莞生活,http://mmitv.top/pltv/itouchtv.php?id=dggg&pk=1235
