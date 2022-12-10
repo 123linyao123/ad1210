@@ -54,8 +54,9 @@
 无线新闻,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
 无线新闻,http://www.penis18.org/stream/e63eb1fc4537dbe20054353418377a63
 无线新闻,http://173.211.42.73:8278/inews_twn/playlist.m3u8?tid=MF0F5425225154252251&ct=19237&tsum=b62246f95bb1178276113e0582ac1173
+无线新闻,https://nettvpro.live/hls/tvb.php?id=1
 
-
+无线财经资讯台,https://nettvpro.live/hls/tvb.php?id=2
 无线财经资讯台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=10
 无线财经资讯台,http://120.84.96.62:808/hls/86/index.m3u8
 无线财经资讯台,http://9.zhxinda.xyz/newss.php?id=2
