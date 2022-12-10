@@ -97,6 +97,7 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,P2p://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线新闻台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
@@ -901,6 +902,7 @@ HBO原创巨献,P2p://generationnexxxt.com:9906/112d4767d383487bb9eb66667ed97ae0
 美亚电影台HD,P2p://generationnexxxt.com:9906/be9b9969c2874973873a0aee3341b93d
 龙华电影,P2p://generationnexxxt.com:9906/60532d4425c942989bc6d82c774f7097
 星卫HD电影台,P2p://generationnexxxt.com:9906/ea747c2047eb4942a2ad519b5475235f
+有线电影台,P2p://generationnexxxt.com:9906/7200dbd246164ca5b4804830fb5e28fd
 
 IPTV黑莓电影,http://39.134.168.67/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 IPTV黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/index.m3u8
