@@ -100,7 +100,10 @@ J2,P2p://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
 明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
 明珠台,http://www.penis18.org/stream/5c5ad77e753cbb8316ba8e169852e43a
 
-TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+亚洲剧台,P2p://generationnexxxt.com:9906/52a791dc62624341afea2b5b6ab7600a
+
+功夫台,P2p://generationnexxxt.com:9906/3ea383e69c5849cc8480307714784a0e
+功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
