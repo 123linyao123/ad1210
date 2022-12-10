@@ -105,6 +105,8 @@ J2,P2p://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
 功夫台,P2p://generationnexxxt.com:9906/3ea383e69c5849cc8480307714784a0e
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
+HOY资讯台,P2p://generationnexxxt.com:9906/0bf5c859c0ee4a32846dd985e8ae1b1c
+
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,P2p://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
