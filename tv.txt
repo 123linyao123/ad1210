@@ -151,6 +151,18 @@ CCTV5+,http://222.175.159.226:808/hls/6/index.m3u8
 广州竞赛,http://9.zhxinda.xyz/gz.php?id=jingsai
 
 Eleven2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+爱尔达体育1台(备),P2p://generationnexxxt.com:9906/4e3174196c97404b93c900c8345829e6
+爱尔达体育2台,P2p://generationnexxxt.com:9906/6e40fb3903bc44f6a1177e38900cb6a8
+TRACE Sport Stars,P2p://generationnexxxt.com:9906/53641859f8124fc9b1d86a0a331fef41
+博斯高球,P2p://generationnexxxt.com:9906/e6ec39f26aed405fb2830aae1e47c267
+博斯高球二台,P2p://generationnexxxt.com:9906/5008062ce9c8465c84d2c61841520a35
+博斯网球台,P2p://generationnexxxt.com:9906/97cfb540e10b4bc79fa927d0dd12c0a6
+博斯魅力网,P2p://generationnexxxt.com:9906/d45f5e1669784f79bb08f9138fa15dd2
+博斯无限台,P2p://generationnexxxt.com:9906/81307e12da9f46c986560c133a2655d3
+博斯无限二台,P2p://generationnexxxt.com:9906/3765ec18172046eab2d98e1c79741e91
+博斯运动,P2p://generationnexxxt.com:9906/8fc3c2e8c30e45e79336ee673c65e858
+博斯运动二台,P2p://generationnexxxt.com:9906/a433a7eabc5942c08299614f893dc98c
+智林体育台,P2p://generationnexxxt.com:9906/da5a9cb4b0bb45f6b2d14bd05552acb7
 
 
 🐼｜广东台,#genre#
@@ -869,6 +881,9 @@ IPTV4k,http://home.111818.xyz:8888/udp/239.76.252.35:9000#http://ekucn.3322.org:
 
 星影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240279_1/playlist.m3u8?CONTENTID=00000110240279_1
 未知影视,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
+
+HBO强档巨献,P2p://generationnexxxt.com:9906/f7c03395d4d84cb68dd1c0f92193ed76
+HBO原创巨献,P2p://generationnexxxt.com:9906/112d4767d383487bb9eb66667ed97ae0
 
 IPTV黑莓电影,http://39.134.168.67/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 IPTV黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/index.m3u8
