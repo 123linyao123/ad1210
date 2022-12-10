@@ -11,6 +11,8 @@
 
 
 翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+
+翡翠台,P2p://generationnexxxt.com:9906/027f96540c5b4d4cb04fce43dddec24a
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,P2p://generationnexxxt.com:9906/bebf0169c9ab4d6599eb6cd9fadb8afb
 翡翠台,http://23.237.10.66:16106
@@ -77,6 +79,10 @@
 无线财经资讯台,http://www.penis18.org/stream/7211c4b77b32ac22e11c3460402e442f
 无线财经资讯台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
+HKC综合娱乐台,P2p://generationnexxxt.com:9906/cd5327509a0d407f952ecef7ebe6d901
+TVB娱乐新闻台,P2p://generationnexxxt.com:9906/1fc20d0f346a41c9a8b462c6903500f0
+TVB经典台,P2p://generationnexxxt.com:9906/28a11e673c574b948b3a7986fc6784f5
+
 TVB星河,P2p://generationnexxxt.com:9906/2cbd6ffa893347de81529e644be10ac2
 TVB星河,http://171.108.239.16:8181/tsfile/live/1011_1.m3u8
 TVB星河,http://113.64.147.203:808/hls/135/index.m3u8
@@ -88,6 +94,7 @@ J2,http://173.211.42.73:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19
 J2,http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
 J2,P2p://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
 
+明珠台,P2p://generationnexxxt.com:9906/035c03a9aed84593a3e4c9cecde00eae
 明珠台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=13
 明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
 明珠台,https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
@@ -900,6 +907,7 @@ IPTV4k,http://home.111818.xyz:8888/udp/239.76.252.35:9000#http://ekucn.3322.org:
 HBO强档巨献,P2p://generationnexxxt.com:9906/f7c03395d4d84cb68dd1c0f92193ed76
 HBO原创巨献,P2p://generationnexxxt.com:9906/112d4767d383487bb9eb66667ed97ae0
 美亚电影台HD,P2p://generationnexxxt.com:9906/be9b9969c2874973873a0aee3341b93d
+美亚电影台(粤语),P2p://generationnexxxt.com:9906/3a62ddd011a0496d95c1e5852369601b
 龙华电影,P2p://generationnexxxt.com:9906/60532d4425c942989bc6d82c774f7097
 星卫HD电影台,P2p://generationnexxxt.com:9906/ea747c2047eb4942a2ad519b5475235f
 有线电影台,P2p://generationnexxxt.com:9906/7200dbd246164ca5b4804830fb5e28fd
